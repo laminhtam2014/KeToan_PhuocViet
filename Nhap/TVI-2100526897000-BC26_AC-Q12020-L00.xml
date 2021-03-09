@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HSoKhaiThue id="_NODE_TO_SIGN">
+    <TTinChung>
+      <TTinDVu>
+        <maDVu>HTKK</maDVu>
+        <tenDVu>HỖ TRỢ KÊ KHAI THUẾ</tenDVu>
+        <pbanDVu>4.1.6</pbanDVu>
+        <ttinNhaCCapDVu>BD9B8472C2F5BF51335F71153F7003B5</ttinNhaCCapDVu>
+      </TTinDVu>
+      <TTinTKhaiThue>
+        <TKhaiThue>
+          <maTKhai>102</maTKhai>
+          <tenTKhai>Báo cáo tình hình sử dụng hóa đơn (BC26/AC)</tenTKhai>
+          <moTaBMau>(Ban hành kèm theo Thông tư số 39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính)</moTaBMau>
+          <pbanTKhaiXML>2.0.8</pbanTKhaiXML>
+          <loaiTKhai>C</loaiTKhai>
+          <soLan>0</soLan>
+          <KyKKhaiThue>
+            <kieuKy>Q</kieuKy>
+            <kyKKhai>1/2020</kyKKhai>
+            <kyKKhaiTuNgay>01/01/2020</kyKKhaiTuNgay>
+            <kyKKhaiDenNgay>31/03/2020</kyKKhaiDenNgay>
+            <kyKKhaiTuThang/>
+            <kyKKhaiDenThang/>
+          </KyKKhaiThue>
+          <maCQTNoiNop>81713</maCQTNoiNop>
+          <tenCQTNoiNop>Chi cục Thuế Huyện Trà Cú</tenCQTNoiNop>
+          <ngayLapTKhai>2020-04-29</ngayLapTKhai>
+          <GiaHan>
+            <maLyDoGiaHan>
+            </maLyDoGiaHan>
+            <lyDoGiaHan>
+            </lyDoGiaHan>
+          </GiaHan>
+          <nguoiKy>TRẦN THỊ THÙY LINH</nguoiKy>
+          <ngayKy>2020-04-29</ngayKy>
+          <nganhNgheKD>
+          </nganhNgheKD>
+        </TKhaiThue>
+        <NNT>
+          <mst>2100526897</mst>
+          <tenNNT>DOANH NGHIỆP TƯ NHÂN VÀNG PHƯƠC VIỆT</tenNNT>
+          <dchiNNT>
+138 ĐẦU GIỒNG A, XÃ PHƯỚC HƯNG, HUYỆN TRÀ CÚ, TỈNH TRÀ VINH 
+
+</dchiNNT>
+          <phuongXa>
+          </phuongXa>
+          <maHuyenNNT>
+          </maHuyenNNT>
+          <tenHuyenNNT>TRÀ CÚ</tenHuyenNNT>
+          <maTinhNNT>
+          </maTinhNNT>
+          <tenTinhNNT>TRÀ VINH </tenTinhNNT>
+          <dthoaiNNT>(0294) 3877 192</dthoaiNNT>
+          <faxNNT>
+          </faxNNT>
+          <emailNNT>
+          </emailNNT>
+        </NNT>
+      </TTinTKhaiThue>
+    </TTinChung>
+    <CTieuTKhaiChinh>
+      <kyBCaoCuoi>0</kyBCaoCuoi>
+      <chuyenDiaDiem>0</chuyenDiaDiem>
+      <ngayDauKyBC>2020-01-01</ngayDauKyBC>
+      <ngayCuoiKyBC>2020-03-31</ngayCuoiKyBC>
+      <HoaDon>
+        <ChiTiet id="ID_1">
+          <maHoaDon>02GTTT</maHoaDon>
+          <tenHDon>Hóa đơn bán hàng</tenHDon>
+          <kHieuMauHDon>02GTTT2/001</kHieuMauHDon>
+          <kHieuHDon>PV/19P</kHieuHDon>
+          <soTonMuaTrKy_tongSo>1756</soTonMuaTrKy_tongSo>
+          <soTonDauKy_tuSo>0000745</soTonDauKy_tuSo>
+          <soTonDauKy_denSo>0002500</soTonDauKy_denSo>
+          <muaTrongKy_tuSo>
+          </muaTrongKy_tuSo>
+          <muaTrongKy_denSo>
+          </muaTrongKy_denSo>
+          <tongSoSuDung_tuSo>0000745</tongSoSuDung_tuSo>
+          <tongSoSuDung_denSo>0000997</tongSoSuDung_denSo>
+          <tongSoSuDung_cong>253</tongSoSuDung_cong>
+          <soDaSDung>253</soDaSDung>
+          <xoaBo_soLuong>0</xoaBo_soLuong>
+          <xoaBo_so>
+          </xoaBo_so>
+          <mat_soLuong>0</mat_soLuong>
+          <mat_so>
+          </mat_so>
+          <huy_soLuong>0</huy_soLuong>
+          <huy_so>
+          </huy_so>
+          <tonCuoiKy_tuSo>0000998</tonCuoiKy_tuSo>
+          <tonCuoiKy_denSo>0002500</tonCuoiKy_denSo>
+          <tonCuoiKy_soLuong>1503</tonCuoiKy_soLuong>
+        </ChiTiet>
+      </HoaDon>
+      <tongCongSoTonDKy>1756</tongCongSoTonDKy>
+      <tongCongSDung>253</tongCongSDung>
+      <tongCongSoTonCKy>1503</tongCongSoTonCKy>
+      <nguoiLapBieu>TRẦN THỊ THÙY LINH</nguoiLapBieu>
+      <nguoiDaiDien>TRẦN THỊ THÙY LINH</nguoiDaiDien>
+      <ngayBCao>2020-04-29</ngayBCao>
+    </CTieuTKhaiChinh>
+  </HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UenCXBbN14B4lvuOpt+7W1JCV3o=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>H7ocFBE+KaR3UhBTzCPxudGgKhUOo8J95ddPJM8GF2mhXi8ZHpnKTqxOPM+Rz/aYT36kMo38RAzV
+adRcPnBC40R97+jSFpM7wte3DJWkXw6RP1PNlsbEX8X2VroAHy8Zl+rMs0j9UE+Jd+xVNe6GzsNR
+27519CdM5NWtmPv1I8I=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>vNio0NJLiis34QShbSpY7yIRKxiZ1mQTlFU5Yh62kEkujwPplr7mEZ2iWUzxOWfczIyXnCJE2XoL
+wJpZCHAJvJgmSENriikxklht0HMee6SrCW2VQGNX0m+pOjxyY7emD5WVUyPmyj/ot6pr73UpMAV6
+jbYP9P1TaNyJd4ZQmYM=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,CN=DOANH NGHIỆP TN VÀNG PHƯỚC VIỆT,UID=MST:2100526897</ds:X509SubjectName><ds:X509Certificate>MIIEgTCCA2mgAwIBAgIQVAEBCVwCHt7WPzSON48OnzANBgkqhkiG9w0BAQUFADBgMQswCQYDVQQG
+EwJWTjE6MDgGA1UECgwxQ8OUTkcgVFkgQ+G7lCBQSOG6pk4gVknhu4ROIFRIw5RORyBORVdURUwt
+VEVMRUNPTTEVMBMGA1UEAxMMTkVXVEVMLUNBIHYyMB4XDTE5MDEyNzE3MDAwMFoXDTIxMDQxODE3
+MDAwMFowXzEeMBwGCgmSJomT8ixkAQEMDk1TVDoyMTAwNTI2ODk3MTAwLgYDVQQDDCdET0FOSCBO
+R0hJ4buGUCBUTiBWw4BORyBQSMav4buaQyBWSeG7hlQxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQC82KjQ0kuKKzfhBKFtKljvIhErGJnWZBOUVTliHraQSS6PA+mWvuYR
+naJZTPE5Z9zMjJecIkTZegvAmlkIcAm8mCZIQ2uKKTGSWG3Qcx57pKsJbZVAY1fSb6k6PHJjt6YP
+lZVTI+bKP+i3qmvvdSkwBXqNtg/0/VNo3Il3hlCZgwIDAQABo4IBujCCAbYwDAYDVR0TAQH/BAIw
+ADAfBgNVHSMEGDAWgBSC8PEh7/5OWDRxb/mMQg8/Id1VmzBrBggrBgEFBQcBAQRfMF0wLgYIKwYB
+BQUHMAKGImh0dHA6Ly9wdWIyLm5ld2NhLnZuL25ld3RlbC1jYS5jcnQwKwYIKwYBBQUHMAGGH2h0
+dHA6Ly9vY3NwMi5uZXdjYS52bi9yZXNwb25kZXIwHwYDVR0RBBgwFoEUcGh1b2N2aWV0dkBnbWFp
+bC5jb20wXQYDVR0gBFYwVDBSBgwrBgEEAYHtAwEJAwEwQjAbBggrBgEFBQcCAjAPDA1PU19OZXdf
+VXBkYXRlMCMGCCsGAQUFBwIBFhdodHRwOi8vcHViLm5ld2NhLnZuL3JwYTA0BgNVHSUELTArBggr
+BgEFBQcDAgYIKwYBBQUHAwQGCisGAQQBgjcKAwwGCSqGSIb3LwEBBTAzBgNVHR8ELDAqMCigJqAk
+hiJodHRwOi8vY3JsMi5uZXdjYS52bi9uZXd0ZWwtY2EuY3JsMB0GA1UdDgQWBBQCemqbj9OCH5vy
++qMrTsu6KjzGjjAOBgNVHQ8BAf8EBAMCBPAwDQYJKoZIhvcNAQEFBQADggEBAGqvULVWPI6AjCGU
+7f9F0BFThSRJ/yaJCs/5jM8WEDGqfF779xhtYcf2aFUrMFvHL51cxZVOq9EUcSrPtbpv2u+8lX5a
+eluuyli2J35OfOXNvbzaMwWGhpXSE9j1MY5qWt3M+2sUMwzrYr8I84HBC0HCkquISh+hqn3F3Kkv
+Uis78Ma3rOvSUEvIc+Mhg0FFIBHDJTp1sTH2ikfxl09+UeK1tpDKlJGpC0NHc6tWkegF+I7vF1cj
+/OwgTDcFaeGcRUb/yXCREUb9xkoPZXasSEglJjchR0EFqOoJV+uT+XqLfisiXY1wzX8FfyMKyt7l
+yC9+H3rpZ1ixXTK2H3bRWRA=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>

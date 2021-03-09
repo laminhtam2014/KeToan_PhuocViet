@@ -1,0 +1,60 @@
+
+16-10-2020 17:21:15: APP START - --------------------------------------------   START   ------------------------------------------------
+
+16/10/2020 17:22:40: WinLoadFromFile - Load Template - 1227
+
+16/10/2020 17:22:40: TaiDK - Start calculation
+
+16/10/2020 17:22:40: TaiDK - End calculation
+
+16/10/2020 17:22:40: frmToKhai_ReLoad - All_Load - 3226
+
+16/10/2020 17:24:22: Validate - Start validate data
+
+16/10/2020 17:24:22: Validate - Start update value
+
+16/10/2020 17:24:22: Validate - End update value
+
+16/10/2020 17:24:22: Validate - End validate data
+
+16/10/2020 17:25:12: ExportXML - Save
+
+16/10/2020 17:25:12: ExportXML - ValidateXmlAgainstXsd
+
+16/10/2020 17:25:12: ExportXML - Process EnCrypt
+
+16/10/2020 17:25:12: ExportXML - Save Encrypt
+
+16/10/2020 17:25:35: WinLoadFromFile - Load Template - 148
+
+16/10/2020 17:25:35: TaiDK - Step 1
+
+16/10/2020 17:25:35: TaiDK - Start calculation
+
+16/10/2020 17:25:35: TaiDK - End calculation
+
+16/10/2020 17:25:35: frmToKhai_ReLoad - All_Load - 858
+
+16/10/2020 17:28:11: Validate - Start validate data
+
+16/10/2020 17:28:11: Validate - Start update value
+
+16/10/2020 17:28:11: Validate - End update value
+
+16/10/2020 17:28:11: Validate - End validate data
+
+16/10/2020 17:28:36: Validate - Start validate data
+
+16/10/2020 17:28:36: Validate - Start update value
+
+16/10/2020 17:28:36: Validate - End update value
+
+16/10/2020 17:28:36: Validate - End validate data
+
+16/10/2020 17:29:03: ExportXML - Save
+
+16/10/2020 17:29:03: ExportXML - ValidateXmlAgainstXsd
+
+16/10/2020 17:29:03: ExportXML - Process EnCrypt
+
+16/10/2020 17:29:03: ExportXML - Save Encrypt

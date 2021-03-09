@@ -1,0 +1,48 @@
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd">
+<Sections Version="335">
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="B_17" CellID2="D_18" Encode="0" Value=""/>
+			<Cell CellID="I_22" CellID2="Z_22" Encode="1" Value="5431122500"/>
+			<Cell CellID="J_22" CellID2="AE_22" Encode="1" Value="5844195500"/>
+			<Cell CellID="I_23" CellID2="Z_23" Encode="1" Value="0"/>
+			<Cell CellID="J_23" CellID2="AE_23" Encode="1" Value="0"/>
+			<Cell CellID="I_24" CellID2="Z_24" Encode="1" Value="5431122500"/>
+			<Cell CellID="J_24" CellID2="AE_24" Encode="1" Value="5844195500"/>
+			<Cell CellID="I_25" CellID2="Z_25" Encode="1" Value="5382090566"/>
+			<Cell CellID="J_25" CellID2="AE_25" Encode="1" Value="5821257399"/>
+			<Cell CellID="I_26" CellID2="Z_26" Encode="1" Value="49031934"/>
+			<Cell CellID="J_26" CellID2="AE_26" Encode="1" Value="22938101"/>
+			<Cell CellID="I_27" CellID2="Z_27" Encode="1" Value="0"/>
+			<Cell CellID="J_27" CellID2="AE_27" Encode="1" Value="0"/>
+			<Cell CellID="I_28" CellID2="Z_28" Encode="1" Value="0"/>
+			<Cell CellID="J_28" CellID2="AE_28" Encode="1" Value="0"/>
+			<Cell CellID="I_29" CellID2="Z_29" Encode="1" Value="0"/>
+			<Cell CellID="J_29" CellID2="AE_29" Encode="1" Value="0"/>
+			<Cell CellID="I_30" CellID2="Z_30" Encode="1" Value="4903193"/>
+			<Cell CellID="J_30" CellID2="AE_30" Encode="1" Value="0"/>
+			<Cell CellID="I_31" CellID2="Z_31" Encode="1" Value="5159996"/>
+			<Cell CellID="J_31" CellID2="AE_31" Encode="1" Value="5837562"/>
+			<Cell CellID="I_32" CellID2="Z_32" Encode="1" Value="38968745"/>
+			<Cell CellID="J_32" CellID2="AE_32" Encode="1" Value="17100539"/>
+			<Cell CellID="I_33" CellID2="Z_33" Encode="1" Value="0"/>
+			<Cell CellID="J_33" CellID2="AE_33" Encode="1" Value="0"/>
+			<Cell CellID="I_34" CellID2="Z_34" Encode="1" Value="0"/>
+			<Cell CellID="J_34" CellID2="AE_34" Encode="1" Value="0"/>
+			<Cell CellID="I_35" CellID2="Z_35" Encode="1" Value="0"/>
+			<Cell CellID="J_35" CellID2="AE_35" Encode="1" Value="0"/>
+			<Cell CellID="I_36" CellID2="Z_36" Encode="1" Value="38968745"/>
+			<Cell CellID="J_36" CellID2="AE_36" Encode="1" Value="17100539"/>
+			<Cell CellID="I_37" CellID2="Z_37" Encode="1" Value="7793749"/>
+			<Cell CellID="J_37" CellID2="AE_37" Encode="1" Value="0"/>
+			<Cell CellID="I_38" CellID2="Z_38" Encode="1" Value="0"/>
+			<Cell CellID="J_38" CellID2="AE_38" Encode="1" Value="0"/>
+			<Cell CellID="I_39" CellID2="Z_39" Encode="1" Value="31174996"/>
+			<Cell CellID="J_39" CellID2="AE_39" Encode="1" Value="17100539"/>
+			<Cell CellID="I_40" CellID2="Z_40" Encode="1" Value="0"/>
+			<Cell CellID="J_40" CellID2="AE_40" Encode="1" Value="0"/>
+			<Cell CellID="I_41" CellID2="Z_41" Encode="1" Value="0"/>
+			<Cell CellID="J_41" CellID2="AE_41" Encode="1" Value="0"/>
+		</Cells>
+	</Section>
+</Sections>

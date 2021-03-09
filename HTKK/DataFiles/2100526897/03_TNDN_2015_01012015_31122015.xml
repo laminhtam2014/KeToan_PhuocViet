@@ -1,0 +1,102 @@
+<!-- edited with XML Spy v4.1 U (http://www.xmlspy.com) (FIS - CMCSOFT) -->
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd">
+<Sections Version="330">
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="F_17" CellID2="I_22" Encode="1" Value=""/>
+		</Cells>
+	</Section>
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="D_8" CellID2="N_8" Encode="1" Value=""/>
+			<Cell CellID="D_10" CellID2="L_10" Encode="1" Value=""/>
+			<Cell CellID="D_12" CellID2="J_12" Encode="1" Value=""/>
+			<Cell CellID="G_14" CellID2="Q_18" Encode="0" Value=""/>
+			<Cell CellID="P_14" CellID2="AK_14" Encode="1" Value=""/>
+			<Cell CellID="G_16" CellID2="R_16" Encode="1" Value="0.00"/>
+		</Cells>
+	</Section>
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="O_31" CellID2="AE_39" Encode="1" Value="0"/>
+			<Cell CellID="O_33" CellID2="AE_41" Encode="1" Value="0"/>
+			<Cell CellID="O_34" CellID2="AE_42" Encode="1" Value="0"/>
+			<Cell CellID="O_35" CellID2="AE_43" Encode="1" Value="0"/>
+			<Cell CellID="O_36" CellID2="AE_44" Encode="1" Value="0"/>
+			<Cell CellID="O_37" CellID2="AE_45" Encode="1" Value="0"/>
+			<Cell CellID="O_38" CellID2="AE_46" Encode="1" Value="0"/>
+			<Cell CellID="O_39" CellID2="AE_47" Encode="1" Value="0"/>
+			<Cell CellID="O_40" CellID2="AE_48" Encode="1" Value="0"/>
+			<Cell CellID="O_41" CellID2="AE_49" Encode="1" Value="0"/>
+			<Cell CellID="O_42" CellID2="AE_50" Encode="1" Value="0"/>
+			<Cell CellID="O_43" CellID2="AE_51" Encode="1" Value="0"/>
+			<Cell CellID="O_44" CellID2="AE_52" Encode="1" Value="0"/>
+			<Cell CellID="O_45" CellID2="AE_53" Encode="1" Value="22938101"/>
+			<Cell CellID="O_46" CellID2="AE_54" Encode="1" Value="0"/>
+			<Cell CellID="O_48" CellID2="AE_56" Encode="1" Value="22938101"/>
+			<Cell CellID="O_49" CellID2="AE_57" Encode="1" Value="0"/>
+			<Cell CellID="O_50" CellID2="AE_58" Encode="1" Value="0"/>
+			<Cell CellID="O_51" CellID2="AE_59" Encode="1" Value="0"/>
+			<Cell CellID="O_52" CellID2="AE_60" Encode="1" Value="0"/>
+			<Cell CellID="O_53" CellID2="AE_61" Encode="1" Value="22938101"/>
+			<Cell CellID="O_54" CellID2="AE_62" Encode="1" Value="0"/>
+			<Cell CellID="O_55" CellID2="AE_63" Encode="1" Value="22938101"/>
+			<Cell CellID="O_56" CellID2="AE_64" Encode="1" Value="0"/>
+			<Cell CellID="O_57" CellID2="AE_65" Encode="1" Value="22938101"/>
+			<Cell CellID="O_58" CellID2="AE_66" Encode="1" Value="0"/>
+			<Cell CellID="O_59" CellID2="AE_67" Encode="1" Value="0"/>
+			<Cell CellID="O_60" CellID2="AE_68" Encode="1" Value="4587620"/>
+			<Cell CellID="O_61" CellID2="AE_69" Encode="1" Value="0"/>
+			<Cell CellID="O_62" CellID2="AE_70" Encode="1" Value="0"/>
+			<Cell CellID="O_63" CellID2="AE_71" Encode="1" Value="0"/>
+			<Cell CellID="O_64" CellID2="AE_72" Encode="1" Value="0"/>
+			<Cell CellID="O_65" CellID2="AE_73" Encode="1" Value="0"/>
+			<Cell CellID="O_66" CellID2="AE_74" Encode="1" Value="4587620"/>
+			<Cell CellID="O_67" CellID2="AE_75" Encode="1" Value="4587620"/>
+			<Cell CellID="O_68" CellID2="AE_76" Encode="1" Value="4587620"/>
+			<Cell CellID="O_69" CellID2="AE_77" Encode="1" Value="0"/>
+			<Cell CellID="O_70" CellID2="AE_78" Encode="1" Value="0"/>
+			<Cell CellID="O_71" CellID2="AE_79" Encode="1" Value="4811786"/>
+			<Cell CellID="O_72" CellID2="AE_80" Encode="1" Value="4811786"/>
+			<Cell CellID="O_73" CellID2="AE_81" Encode="1" Value="0"/>
+			<Cell CellID="O_74" CellID2="AE_82" Encode="1" Value="0"/>
+			<Cell CellID="O_75" CellID2="AE_83" Encode="1" Value="-224166"/>
+			<Cell CellID="O_76" CellID2="AE_84" Encode="1" Value="-224166"/>
+			<Cell CellID="O_77" CellID2="AE_85" Encode="1" Value="0"/>
+			<Cell CellID="O_78" CellID2="AE_86" Encode="1" Value="0"/>
+			<Cell CellID="O_79" CellID2="AE_87" Encode="1" Value="917524"/>
+			<Cell CellID="O_80" CellID2="AE_88" Encode="1" Value="-1141690"/>
+		</Cells>
+	</Section>
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="F_83" CellID2="R_93" Encode="1" Value=""/>
+			<Cell CellID="I_85" CellID2="R_95" Encode="0" Value=""/>
+			<Cell CellID="P_85" CellID2="AK_95" Encode="1" Value=""/>
+			<Cell CellID="I_87" CellID2="R_97" Encode="1" Value=""/>
+			<Cell CellID="I_89" CellID2="R_99" Encode="1" Value="0"/>
+			<Cell CellID="I_91" CellID2="R_101" Encode="1" Value="0"/>
+			<Cell CellID="E_95" CellID2="K_106" Encode="1" Value="0"/>
+			<Cell CellID="J_95" CellID2="Q_106" Encode="1" Value="01/02/2016"/>
+			<Cell CellID="N_95" CellID2="W_106" Encode="1" Value=""/>
+			<Cell CellID="E_97" CellID2="K_108" Encode="1" Value="0"/>
+		</Cells>
+	</Section>
+	<Section Dynamic="1" MaxRows="0">
+		<Cells>
+			<Cell CellID="C_103" CellID2="E_113" FirstCell="0" Encode="1" Value="" StatusID="0001"/>
+		</Cells>
+	</Section>
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="F_108" CellID2="G_122" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="N_108" CellID2="U_126" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="F_110" CellID2="J_123" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="N_110" CellID2="C_119" Encode="1" Receive="1" Value="14/04/2016"/>
+			<Cell CellID="E_22" CellID2="L_32" Encode="1" Receive="1" Value="1"/>
+			<Cell CellID="F_22" CellID2="M_32" Encode="1" Receive="1" Value="1"/>
+			<Cell CellID="I_22" CellID2="N_32" Encode="1" Receive="1" Value="0"/>
+			<Cell CellID="J_22" CellID2="O_32" Encode="1" Receive="1" Value="1052"/>
+		</Cells>
+	</Section>
+</Sections>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd"[]>
+<Sections Version="4.1.6">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="B_3" CellID2="" Encode="0" Controltype="15" Value="" DefaultValue="" Path="btnTBK" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="1" TableName="TB01_AC" id="1" TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/HoaDon/ChiTiet" iColumnSTT="2" TableSTTValue="1" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>33</TableTemplateRowStart>
+      <TableReportRowStart>37</TableReportRowStart>
+      <DataLocationTemplateRowStart>35</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>38</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>22</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="C" CellID2="AH" CellID3="C" Encode="0" Controltype="32" MaxLen="" Path="Path3" DefaultValue="" Value="" HelpContextID="64102" />
+      <Cell CellID="D" CellID2="C" CellID3="D" Encode="1" Controltype="0" MaxLen="200" Path="tenLoaiHDon" DefaultValue="" Value="" HelpContextID="64103" />
+      <Cell CellID="J" CellID2="I" CellID3="E" Encode="1" Controltype="0" MaxLen="20" Path="mauSo" DefaultValue="" Value="" HelpContextID="64104" />
+      <Cell CellID="L" CellID2="K" CellID3="F" Encode="1" Controltype="0" MaxLen="8" Path="kyHieu" DefaultValue="" Value="" HelpContextID="64105" />
+      <Cell CellID="N" CellID2="M" CellID3="I" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="9999999" Path="soLuong" DefaultValue="0" Value="0" />
+      <Cell CellID="P" CellID2="O" CellID3="G" Encode="1" Controltype="0" MaxLen="7" MinValue="" MaxValue="" Path="tuSo" DefaultValue="" Value="" HelpContextID="64107" />
+      <Cell CellID="R" CellID2="Q" CellID3="H" Encode="1" Controltype="0" MaxLen="7" MinValue="" MaxValue="" Path="denSo" DefaultValue="" Value="" HelpContextID="64108" />
+      <Cell CellID="T" CellID2="S" CellID3="J" Encode="1" Controltype="14" MaxLen="" Path="ngayBDauSDung" DefaultValue="" Value="" HelpContextID="64109" />
+      <Cell CellID="W" CellID2="V" CellID3="K" Encode="1" Controltype="0" MaxLen="200" Path="DoanhNghiepIn/ten" DefaultValue="" Value="" HelpContextID="64110" />
+      <Cell CellID="AA" CellID2="Z" CellID3="L" Encode="1" Controltype="26" MaxLen="14" Path="DoanhNghiepIn/mst" DefaultValue="" Value="" HelpContextID="64111" />
+      <Cell CellID="AD" CellID2="AC" CellID3="" Encode="1" Controltype="0" MaxLen="" Path="HopDongDatIn/so" DefaultValue="" Value="" HelpContextID="64111" />
+      <Cell CellID="AE" CellID2="AD" CellID3="" Encode="1" Controltype="14" MaxLen="" Path="HopDongDatIn/ngay" DefaultValue="" Value="" />
+      <Cell CellID="AG" CellID2="AF" CellID3="" Encode="0" Controltype="0" MaxLen="" Path="Path1" DefaultValue="" Value="" />
+      <Cell CellID="AM" CellID2="AG" CellID3="" Encode="1" Controltype="0" MaxLen="" Path="Path2" DefaultValue="" Value="" />
+    </RowInfo>
+    <RowData RowDisplay="1">02GTTT###Hóa đơn bán hàng###02GTTT2/001###PV/19P###2500###0000001###0002500###18042019###CÔNG TY CỔ PHẦN VĂN HÓA TỔNG HỢP TRÀ VINH###2100113258############</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="F_40" CellID2="E_49" Encode="1" Controltype="0" MaxLen="200" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/DonViChuQuan/ten" Value="" />
+      <Cell CellID="F_42" CellID2="E_51" Encode="1" Controltype="26" MaxLen="14" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/DonViChuQuan/mst" Value="" />
+      <Cell CellID="K_44" CellID2="J_47" Encode="1" Controltype="0" MaxLen="200" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/tenCQTTiepNhan" Value="Chi cục Thuế Huyện Trà Cú" HelpContextID="64114" />
+      <Cell CellID="AA_46" CellID2="Z_49" Encode="1" Controltype="14" MaxLen="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ngayBCao" Value="16/04/2019" />
+      <Cell CellID="AA_48" CellID2="Y_61" Encode="1" Controltype="0" MaxLen="45" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/nguoiDaiDien" Value="TRẦN THỊ THÙY LINH" />
+      <Cell CellID="AD_46" CellID2="" Encode="0" Controltype="0" MaxLen="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/DLyThue/NVienDLy/tenNVienDLyThue" Value="" />
+      <Cell CellID="AD_48" CellID2="" Encode="0" Controltype="0" MaxLen="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/DLyThue/NVienDLy/cchiHNghe" Value="" />
+      <Cell CellID="AE_46" CellID2="" Encode="0" Controltype="14" MaxLen="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/TKhaiThue/ngayKy" Value="16/04/2019" />
+    </Cells>
+  </Section>
+</Sections>

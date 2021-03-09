@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Edited by TAS_CMC-->
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd"[]>
+<Sections Version="4.1.2">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="H_14" CellID2="J_37" Encode="1" Controltype="26" Value="0" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/DLyThue/mstDLyThue" MaxLen="14" MinValue="" MaxValue="" HelpContextID="" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="C_32" CellID2="C_32" Encode="0" Controltype="2" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ChonToKhai/tkChinhThucLanDau" Value="False" MaxLen="" MinValue="" MaxValue="" HelpContextID="63121" />
+      <Cell CellID="D_32" CellID2="D_32" Encode="0" Controltype="2" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ChonToKhai/boSung_tkChinhThucLanDau" Value="False" MaxLen="" MinValue="" MaxValue="" HelpContextID="63121" />
+      <Cell CellID="E_32" CellID2="E_32" Encode="0" Controltype="2" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ChonToKhai/tkChiNhanhMoiThanhLap" Value="False" MaxLen="" MinValue="" MaxValue="" HelpContextID="63121" />
+      <Cell CellID="F_32" CellID2="F_32" Encode="0" Controltype="2" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ChonToKhai/boSung_tkChiNhanhMoiThanhLap" Value="False" MaxLen="" MinValue="" MaxValue="" HelpContextID="63121" />
+      <Cell CellID="R_20" CellID2="B_19" Encode="1" Controltype="2" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct21" Value="False" MaxLen="" MinValue="" MaxValue="" HelpContextID="63121" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="Y_44" CellID2="Y_44" Encode="0" Controltype="0" Path="PathY44" Value="2000000" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="" />
+      <Cell CellID="C_45" CellID2="C_45" Encode="1" Controltype="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/CT22/ct2" Value="DOANH NGHIỆP TƯ NHÂN VÀNG PHƯƠC VIỆT" MaxLen="250" MinValue="" MaxValue="" HelpContextID="63102" />
+      <Cell CellID="R_45" CellID2="S_45" Encode="1" Controltype="16" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/CT22/ct4" Value="700000000" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="63104" />
+      <Cell CellID="Y_45" CellID2="X_45" Encode="1" Controltype="59" Path="Y_45" SelectedValue="AB_45" Value="2.000.000" MaxLen="" MinValue="" MaxValue="" HelpContextID="63105" />
+      <Cell CellID="AB_45" CellID2="AA_45" Encode="1" Controltype="16" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/CT22/ct5" Value="2000000" MaxLen="" MinValue="" MaxValue="" HelpContextID="63105" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="Y_47" CellID2="X_47" Encode="0" Controltype="16" Path="null_5" Value="0" MaxLen="" MinValue="" MaxValue="" HelpContextID="" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="1" TableName="01_MBA_ND139_1" id="1" TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/CT23/DonViTrucThuocHToanDiaPhuong" iColumnSTT="2" TableSTTLocation="B_50" TableSTTValue="2" TableReportSTTLocation="B_50" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>48</TableTemplateRowStart>
+      <TableReportRowStart>48</TableReportRowStart>
+      <DataLocationTemplateRowStart>50</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>50</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>-1</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="C" CellID2="C" Encode="1" Controltype="26" Path="ct2_ma" DefaultValue="" Value="" MaxLen="14" MinValue="" MaxValue="" HelpContextID="63102" />
+      <Cell CellID="G" CellID2="G" Encode="1" Controltype="0" Path="ct2_ten" DefaultValue="" Value="" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="63102" />
+      <Cell CellID="R" CellID2="S" Encode="1" Controltype="16" Path="ct4" DefaultValue="0" Value="0" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="63104" />
+      <Cell CellID="Y" CellID2="X" Encode="1" Controltype="60" Path="Y" SelectedValue="AB" DefaultValue="" Value="" MaxLen="" MinValue="" MaxValue="" HelpContextID="63115" />
+      <Cell CellID="AB" CellID2="AA" Encode="1" Controltype="16" Path="ct5" Value="0" DefaultValue="0" MaxLen="" MinValue="" MaxValue="" HelpContextID="63105" />
+    </RowInfo>
+    <RowData RowDisplay="1">######0######0</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="Y_52" CellID2="X_52" Encode="1" Controltype="16" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct24" Value="2000000" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="H_61" CellID2="D_63" Encode="1" Controltype="0" Path="null_1" Value="" MaxLen="50" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="R_61" CellID2="O_68" Encode="1" Controltype="0" Path="null_2" Value="TRẦN THỊ THÙY LINH" MaxLen="50" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="H_63" CellID2="G_64" Encode="1" Controltype="0" Path="null_3" Value="" MaxLen="50" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="R_63" CellID2="R_59" Encode="1" Controltype="14" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ngayLapTKChinhThuc" Value="28/01/2019" MaxLen="10" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="C_35" CellID2="C_37" Encode="1" Controltype="0" Path="PathC35" Value="1" MaxLen="2" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="F_35" CellID2="F_37" Encode="1" Controltype="0" Path="PathF35" Value="" MaxLen="2" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="I_35" CellID2="I_37" Encode="1" Controltype="0" Path="PathI35" Value="" MaxLen="2" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="K_35" CellID2="K_37" Encode="1" Controltype="0" Path="PathK35" Value="" MaxLen="2" MinValue="" MaxValue="" HelpContextID="63100" />
+      <Cell CellID="M_35" CellID2="M_37" Encode="1" Controltype="0" Path="PathM35" Value="" MaxLen="10" MinValue="" MaxValue="" HelpContextID="63100" />
+    </Cells>
+  </Section>
+</Sections>

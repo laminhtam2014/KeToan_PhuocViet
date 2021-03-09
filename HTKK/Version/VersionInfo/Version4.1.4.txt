@@ -1,0 +1,17 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.4
+
+1.	Nâng cấp ứng dụng bổ sung mẫu biểu và các yêu cầu nghiệp vụ phát sinh:
+-	Nâng cấp ứng dụng bổ sung chức năng lập Báo cáo tài chính theo Thông tư số 334/2016/TT-BTC: Hỗ trợ nhập, xóa, sửa, in, nhập lại, kết xuất XML, kết xuất Excel, tải báo cáo từ XML, tra cứu hướng dẫn kê khai từng chỉ tiêu cho các bộ BCTC bao gồm:
+	+ Bộ báo cáo tài chính năm
+	+ Bộ báo cáo tài chính hợp nhất
+	+ Bộ báo cáo tài chính giữa niên độ
+-	Cập nhật danh mục địa bàn hành chính
+	+ Cập nhật xã Đồng Lộc thành Thị trấn Đồng Lộc – Huyện Can Lộc – Tỉnh Hà Tĩnh.
+	+ Cập nhật Thị xã Đồng Xoài thành Thành phố Đồng Xoài – Tỉnh Bình Phước.
+-	Nâng cấp chức năng Lập Báo cáo sử dụng hóa đơn (áp dụng đối với cá nhân nộp thuế theo phương pháp khoán) (01/BC-SDHD-CNKD): Cập nhật cho phép sửa cột thuế GTGT tại mục I - phần B, nếu sửa khác giá trị ứng dụng hỗ trợ tự động tính thì hiển thị cảnh báo vàng.
+
+2.	Cập nhật một số lỗi của ứng dụng HTKK phiên bản 4.1.3
+-	Chức năng Tổng hợp KHBS tờ khai thuế nhà thầu nước ngoài (01/NTNN): Cập nhật sửa lỗi tổng hợp Số điều chỉnh của chỉ tiêu “Thuế TNDN phải nộp”.
+-	Chức năng lập Báo cáo tình hình sử dụng hóa đơn (BC26/AC): Cập nhật nút chức năng ‘Tải bảng kê’ trên ứng dụng.
+-	Chức năng lập báo cáo tài chính năm theo thông tư số 200/2014/TT-BTC: Cập nhật sửa lỗi xử lý dữ liệu tại chỉ tiêu 316 – Phải trả nội bộ ngắn hạn thuộc bảng Cân đối kế toán: cho phép nhập âm, dương.
+-	Cập nhật chức năng kê khai Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN): Cập nhật sửa lỗi ràng buộc cột Từ tháng – đến tháng tại các mục I, II – Bảng kê giảm trừ gia cảnh cho người phụ thuộc (02-1BK-QTT-TNCN) cho phép nhập Từ tháng <= đến tháng.

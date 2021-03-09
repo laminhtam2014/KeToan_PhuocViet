@@ -1,0 +1,33 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.2
+
+1.	Nâng cấp chức năng kê khai Tờ khai lệ phí môn bài (01/MBAI):
+-	Cập nhật mức lệ phí môn bài tại chỉ tiêu [22]: Cho phép chọn trong danh mục các giá trị: 3.000.000, 2.000.000, 1.500.000, 1.000.000, 500.000, 300.000, 250.000, 150.000 VNĐ
+-	Cập nhật mức lệ phí môn bài tại chỉ tiêu [23]: Cho phép chọn trong danh mục các giá trị: 1.000.000, 500.000 VNĐ
+-	Cập nhật hiển thị thông tin chỉ tiêu [21] – “Khai bổ sung cho cơ sở mới thành lập trong năm” thành “Khai lệ phí môn bài cho cơ sở phụ thuộc cùng tỉnh mới thành lập trong năm”.
+-	Trường hợp khai lệ phí môn bài cho cơ sở phụ thuộc cùng tỉnh mới thành lập trong năm (tích vào chỉ tiêu [21]) hoặc không tích vào chỉ tiêu 21 mà có nhập thông tin tại chỉ tiêu [23] thì bắt buộc nhập “Tên đơn vị” và “Mức lệ phí môn bài” tại chỉ tiêu [23].
+-	Cập nhật dòng ghi chú khi in tờ khai thành “Tổ chức có vốn điều lệ hoặc vốn đầu tư trên 10 tỷ đồng thì nộp lệ phí môn bài bậc 1 (tiểu mục 2862)”.
+
+2.	Nâng cấp chức năng kê khai Tờ khai thuế nhà thầu nước ngoài (01/NTNN):
+-	Cập nhật điều kiện bắt buộc nhập thông tin cột [3] – Hợp đồng Số…, Ngày…tháng…năm trên tờ khai.
+-	Cập nhật điều kiện ràng buộc chỉ tiêu cột [5] – Ngày thanh toán:
++	Đối với tờ khai theo lần phát sinh: Ngày thanh toán mặc định hiển thị bằng kỳ tính thuế, không cho phép sửa. 
++	Đối với tờ khai theo tháng: Bắt buộc nhập “Ngày thanh toán” và “Ngày thanh toán” phải thuộc kỳ tính thuế.
+-	Cập nhật ràng buộc chỉ tiêu Số thuế được miễn giảm theo Hiệp định [11] phải nhỏ hơn hoặc bằng chỉ tiêu Doanh thu tính thuế [9]* Tỷ lệ thuế TNDN [10], trường hợp lớn hơn thì cảnh báo đỏ.
+-	Cập nhật cảnh báo vàng ở các chỉ tiêu [4], [6], [7], [8], [9], [10], [11], [12], [13] nếu để trống số liệu trong trường hợp có kê khai thông tin Hợp đồng nhà thầu tại chỉ tiêu [3], [5].
+
+3.	Nâng cấp chức năng kê khai Tờ khai thuế nhà thầu nước ngoài (03/NTNN):
+-	Cập nhật ràng buộc bắt buộc nhập thông tin cột [3] – Hợp đồng Số…, Ngày…tháng…năm
+-	Cập nhật điều kiện ràng buộc chỉ tiêu cột [5] – Ngày thanh toán:
+	+	Đối với tờ khai theo lần phát sinh: Ngày thanh toán mặc định hiển thị bằng kỳ tính thuế, không cho phép sửa. 
+	+	Đối với tờ khai theo tháng: Bắt buộc nhập “Ngày thanh toán” và “Ngày thanh toán” phải thuộc kỳ tính thuế.
+-	Cập nhật ràng buộc chỉ tiêu Số thuế được miễn giảm theo Hiệp định [8] phải nhỏ hơn hoặc bằng chỉ tiêu Doanh thu tính thuế [6]* Tỷ lệ thuế TNDN [7], trường hợp lớn hơn thì cảnh báo đỏ.
+-	Cập nhật cảnh báo vàng ở các chỉ tiêu [4], [6], [7], [8], [9] nếu để trống số liệu trong trường hợp có kê khai thông tin Hợp đồng nhà thầu tại chỉ tiêu [3], [5].
+
+4.	Nâng cấp chức năng Kê khai Tờ khai thuế GTGT khấu trừ (01/GTGT), Tờ khai GTGT cho dự án đầu tư (02/GTGT)
+-	Cập nhật cho phép khai bổ sung đối với trường hợp tăng/giảm số tiền NNT tự phát hiện đã được hoàn phải nộp trả NSNN và bổ sung cảnh báo các điều kiện ràng buộc tương ứng.
+
+5.	Cập nhật chức năng kê khai Tờ khai quyết toán TNDN năm (03/TNDN)
+-	Cập nhật cho phép nhập dữ liệu tại cột 2 – Nội dung, mục III – Thông tin xác định giá giao dịch liên kết, phụ lục GDLK-01 tối đa 200 ký tự.
+
+6.	Cập nhật chức năng lập Báo cáo tình hình sử dụng hóa đơn (BC26/AC):
+-	Cập nhật sửa lỗi chức năng kê khai báo cáo với kỳ tính thuế theo tháng.

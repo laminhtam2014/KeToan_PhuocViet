@@ -1,0 +1,78 @@
+
+29-04-2020 17:20:45: APP START - --------------------------------------------   START   ------------------------------------------------
+
+29/04/2020 17:21:30: WinLoadFromFile - Load Template - 997
+
+29/04/2020 17:21:30: TaiDK - Start calculation
+
+29/04/2020 17:21:30: TaiDK - End calculation
+
+29/04/2020 17:21:30: frmToKhai_ReLoad - All_Load - 2881
+
+29-04-2020 23:24:57: APP START - --------------------------------------------   START   ------------------------------------------------
+
+29/04/2020 23:25:35: WinLoadFromFile - Load Template - 1232
+
+29/04/2020 23:25:36: TaiDK - Step 1
+
+29/04/2020 23:25:36: TaiDK - Start calculation
+
+29/04/2020 23:25:36: TaiDK - End calculation
+
+29/04/2020 23:25:36: frmToKhai_ReLoad - All_Load - 3832
+
+29/04/2020 23:31:41: Validate - Start validate data
+
+29/04/2020 23:31:41: Validate - Start update value
+
+29/04/2020 23:31:41: Validate - End update value
+
+29/04/2020 23:31:41: Validate - End validate data
+
+29/04/2020 23:31:58: Validate - Start validate data
+
+29/04/2020 23:31:58: Validate - Start update value
+
+29/04/2020 23:31:58: Validate - End update value
+
+29/04/2020 23:31:58: Validate - End validate data
+
+29/04/2020 23:32:34: ExportXML - Save
+
+29/04/2020 23:32:34: ExportXML - ValidateXmlAgainstXsd
+
+29/04/2020 23:32:34: ExportXML - Process EnCrypt
+
+29/04/2020 23:32:34: ExportXML - Save Encrypt
+
+29/04/2020 23:32:48: WinLoadFromFile - Load Template - 244
+
+29/04/2020 23:32:48: TaiDK - Start calculation
+
+29/04/2020 23:32:48: TaiDK - End calculation
+
+29/04/2020 23:32:48: frmToKhai_ReLoad - All_Load - 377
+
+29/04/2020 23:33:00: WinLoadFromFile - Load Template - 152
+
+29/04/2020 23:33:00: TaiDK - Start calculation
+
+29/04/2020 23:33:00: TaiDK - End calculation
+
+29/04/2020 23:33:01: frmToKhai_ReLoad - All_Load - 256
+
+29/04/2020 23:33:52: Validate - Start validate data
+
+29/04/2020 23:33:52: Validate - Start update value
+
+29/04/2020 23:33:52: Validate - End update value
+
+29/04/2020 23:33:52: Validate - End validate data
+
+29/04/2020 23:34:37: ExportXML - Save
+
+29/04/2020 23:34:37: ExportXML - ValidateXmlAgainstXsd
+
+29/04/2020 23:34:37: ExportXML - Process EnCrypt
+
+29/04/2020 23:34:37: ExportXML - Save Encrypt

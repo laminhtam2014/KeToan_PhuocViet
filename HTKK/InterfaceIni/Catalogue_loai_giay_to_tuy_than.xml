@@ -1,0 +1,9 @@
+﻿<Sections Version="385">
+	<Section Dynamic="0" MaxRows="0">
+		<Items>
+			<Item value="1010###Chứng minh thư"/>
+			<Item value="1020###Hộ chiếu"/>
+			<Item value="2080###Thẻ CCCD"/>
+		</Items>
+	</Section>	
+</Sections>

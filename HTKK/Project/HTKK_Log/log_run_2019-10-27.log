@@ -1,0 +1,86 @@
+
+27/10/2019 17:37:05: APP START - --------------------------------------------   START   ------------------------------------------------
+
+27/10/2019 17:37:40: WinLoadFromFile - Load Template - 977
+
+27/10/2019 17:37:40: TaiDK - Start calculation
+
+27/10/2019 17:37:40: TaiDK - End calculation
+
+27/10/2019 17:37:40: frmToKhai_ReLoad - All_Load - 2252
+
+27/10/2019 17:40:55: Validate - Start validate data
+
+27/10/2019 17:40:55: Validate - Start update value
+
+27/10/2019 17:40:55: Validate - End update value
+
+27/10/2019 17:40:55: Validate - End validate data
+
+27/10/2019 17:41:49: WinLoadFromFile - Load Template - 318
+
+27/10/2019 17:41:49: TaiDK - Step 1
+
+27/10/2019 17:41:49: TaiDK - Start calculation
+
+27/10/2019 17:41:49: TaiDK - End calculation
+
+27/10/2019 17:41:49: frmToKhai_ReLoad - All_Load - 490
+
+27/10/2019 17:42:22: WinLoadFromFile - Load Template - 283
+
+27/10/2019 17:42:22: TaiDK - Step 1
+
+27/10/2019 17:42:23: TaiDK - Start calculation
+
+27/10/2019 17:42:23: TaiDK - End calculation
+
+27/10/2019 17:42:23: frmToKhai_ReLoad - All_Load - 589
+
+27/10/2019 17:47:17: Validate - Start validate data
+
+27/10/2019 17:47:17: Validate - Start update value
+
+27/10/2019 17:47:17: Validate - End update value
+
+27/10/2019 17:47:17: Validate - End validate data
+
+27/10/2019 17:47:30: Validate - Start validate data
+
+27/10/2019 17:47:30: Validate - Start update value
+
+27/10/2019 17:47:30: Validate - End update value
+
+27/10/2019 17:47:30: Validate - End validate data
+
+27/10/2019 17:50:36: ExportXML - Save
+
+27/10/2019 17:50:36: ExportXML - ValidateXmlAgainstXsd
+
+27/10/2019 17:50:36: ExportXML - Process EnCrypt
+
+27/10/2019 17:50:36: ExportXML - Save Encrypt
+
+27/10/2019 17:50:47: WinLoadFromFile - Load Template - 432
+
+27/10/2019 17:50:47: TaiDK - Start calculation
+
+27/10/2019 17:50:47: TaiDK - End calculation
+
+27/10/2019 17:50:47: frmToKhai_ReLoad - All_Load - 511
+
+27/10/2019 17:50:51: Validate - Start validate data
+
+27/10/2019 17:50:51: Validate - Start update value
+
+27/10/2019 17:50:51: Validate - End update value
+
+27/10/2019 17:50:51: Validate - End validate data
+
+27/10/2019 17:51:13: ExportXML - Save
+
+27/10/2019 17:51:13: ExportXML - ValidateXmlAgainstXsd
+
+27/10/2019 17:51:13: ExportXML - Process EnCrypt
+
+27/10/2019 17:51:13: ExportXML - Save Encrypt

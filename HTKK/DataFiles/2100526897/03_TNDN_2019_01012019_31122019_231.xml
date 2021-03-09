@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="4.1.6">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="F_25" CellID2="F_17" Encode="1" Controltype="26" Value="" Path="F25" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="D_8" CellID2="N_8" Encode="1" MaxLen="" MinValue="" MaxValue="" HelpContextID="03105" Controltype="2" Value="False" DefaultValue="False" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/doanhNghiepCoQuyMoVuaVaNho" StatusID="0001" />
+      <Cell CellID="D_10" CellID2="L_10" Encode="1" MaxLen="" MinValue="" MaxValue="" HelpContextID="03105" Controltype="2" Value="False" DefaultValue="False" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/doanhNghiepCoCSoHToanPThuoc" StatusID="0001" />
+      <Cell CellID="D_12" CellID2="J_12" Encode="1" MaxLen="" MinValue="" MaxValue="" HelpContextID="03105" Controltype="2" Value="False" DefaultValue="False" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/doanhNghiepKeKhaiTTinLienKet" StatusID="0001" />
+      <Cell CellID="G_14" CellID2="Q_18" Encode="0" MaxLen="" MinValue="" MaxValue="" SelectedValue="P_14" HelpContextID="03104" Controltype="11" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct_04_ten" StatusID="0001" />
+      <Cell CellID="P_14" CellID2="AK_14" Encode="1" Controltype="0" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct_04_ma" StatusID="0001" />
+      <Cell CellID="G_16" CellID2="R_16" Encode="1" MaxLen="" MinValue="0" MaxValue="100" HelpContextID="03104" Controltype="16" Value="0" DefaultValue="0,00" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct_05" StatusID="0001" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="O_31" CellID2="AE_39" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100011" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctA1" StatusID="0002" />
+      <Cell CellID="O_33" CellID2="AE_41" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100021" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB1" StatusID="0002" />
+      <Cell CellID="O_34" CellID2="AE_42" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100022" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB2" StatusID="0001" />
+      <Cell CellID="O_35" CellID2="AE_43" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100023" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB3" StatusID="0001" />
+      <Cell CellID="O_36" CellID2="AE_44" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100024" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB4" StatusID="0001" />
+      <Cell CellID="O_37" CellID2="AE_45" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100025" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB5" StatusID="0001" />
+      <Cell CellID="O_38" CellID2="AE_46" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100026" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB6" StatusID="0001" />
+      <Cell CellID="O_39" CellID2="AE_47" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100027" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB7" StatusID="0001" />
+      <Cell CellID="O_40" CellID2="AE_48" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100028" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB8" StatusID="0002" />
+      <Cell CellID="O_41" CellID2="AE_49" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100029" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB9" StatusID="0001" />
+      <Cell CellID="O_42" CellID2="AE_50" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000210" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB10" StatusID="0001" />
+      <Cell CellID="O_43" CellID2="AE_51" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000211" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB11" StatusID="0001" />
+      <Cell CellID="O_44" CellID2="AE_52" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000212" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB12" StatusID="0002" />
+      <Cell CellID="O_45" CellID2="AE_53" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000213" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB13" StatusID="0001" />
+      <Cell CellID="O_46" CellID2="AE_54" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000214" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctB14" StatusID="0001" />
+      <Cell CellID="O_48" CellID2="AE_56" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100031" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC1" StatusID="0002" />
+      <Cell CellID="O_49" CellID2="AE_57" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100032" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC2" StatusID="0001" />
+      <Cell CellID="O_50" CellID2="AE_58" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100033" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC3" StatusID="0002" />
+      <Cell CellID="O_51" CellID2="AE_59" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000331" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC3a" StatusID="0001" />
+      <Cell CellID="O_52" CellID2="AE_60" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000332" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC3b" StatusID="0001" />
+      <Cell CellID="O_53" CellID2="AE_61" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100034" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC4" StatusID="0002" />
+      <Cell CellID="O_54" CellID2="AE_62" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100035" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC5" StatusID="0001" />
+      <Cell CellID="O_55" CellID2="AE_63" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100036" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC6" StatusID="0002" />
+      <Cell CellID="O_56" CellID2="AE_64" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100037" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC7" StatusID="0001" />
+      <Cell CellID="O_57" CellID2="AE_65" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100038" Controltype="16" Value="104727948" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC8" StatusID="0001" />
+      <Cell CellID="O_58" CellID2="AE_66" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100039" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC9" StatusID="0001" />
+      <Cell CellID="O_59" CellID2="AE_67" Encode="1" MaxLen="" MinValue="0" MaxValue="100" HelpContextID="031000391" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC9a" StatusID="0001" />
+      <Cell CellID="O_60" CellID2="AE_68" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000310" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC10" StatusID="0002" />
+      <Cell CellID="O_61" CellID2="AE_69" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000311" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC11" StatusID="0001" />
+      <Cell CellID="O_62" CellID2="AE_70" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000312" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC12" StatusID="0001" />
+      <Cell CellID="O_63" CellID2="AE_71" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000313" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC13" StatusID="0001" />
+      <Cell CellID="O_64" CellID2="AE_72" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000314" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC14" StatusID="0001" />
+      <Cell CellID="O_65" CellID2="AE_73" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000315" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC15" StatusID="0001" />
+      <Cell CellID="O_66" CellID2="AE_74" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031000316" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctC16" StatusID="0002" />
+      <Cell CellID="O_67" CellID2="AE_75" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100040" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctD" StatusID="0002" />
+      <Cell CellID="O_68" CellID2="AE_76" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100041" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctD1" StatusID="0002" />
+      <Cell CellID="O_69" CellID2="AE_77" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100042" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctD2" StatusID="0001" />
+      <Cell CellID="O_70" CellID2="AE_78" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100043" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctD3" StatusID="0001" />
+      <Cell CellID="O_71" CellID2="AE_79" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100050" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctE" StatusID="0002" />
+      <Cell CellID="O_72" CellID2="AE_80" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100051" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctE1" StatusID="0001" />
+      <Cell CellID="O_73" CellID2="AE_81" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100052" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctE2" StatusID="0001" />
+      <Cell CellID="O_74" CellID2="AE_82" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100053" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctE3" StatusID="0001" />
+      <Cell CellID="O_75" CellID2="AE_83" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100060" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctG" StatusID="0002" />
+      <Cell CellID="O_76" CellID2="AE_84" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100061" Controltype="16" Value="20945590" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctG1" StatusID="0002" />
+      <Cell CellID="O_77" CellID2="AE_85" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100062" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctG2" StatusID="0002" />
+      <Cell CellID="O_78" CellID2="AE_86" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100063" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctG3" StatusID="0002" />
+      <Cell CellID="O_79" CellID2="AE_87" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100070" Controltype="16" Value="4189118" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctH" StatusID="0001" />
+      <Cell CellID="O_80" CellID2="AE_88" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100080" Controltype="16" Value="16756472" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ctI" StatusID="0002" />
+    </Cells>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="F_83" CellID2="R_93" Encode="1" MaxLen="" MinValue="" MaxValue="" HelpContextID="03100091" Controltype="2" Value="False" DefaultValue="False" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL1" StatusID="0001" LockReference="I_85###I_87###I_89###I_91" />
+      <Cell CellID="I_85" CellID2="R_95" Encode="0" MaxLen="" MinValue="" MaxValue="" HelpContextID="03100092" Controltype="29" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL2_ten" StatusID="0001" SelectedValue="P_85" />
+      <Cell CellID="P_85" CellID2="AK_95" Encode="1" Controltype="0" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL2_ma" StatusID="0001" />
+      <Cell CellID="I_87" CellID2="R_97" Encode="1" MaxLen="10" MinValue="" MaxValue="" HelpContextID="03100093" Controltype="14" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL3" StatusID="0001" />
+      <Cell CellID="I_89" CellID2="R_99" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03100094" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL4" StatusID="0001" />
+      <Cell CellID="I_91" CellID2="R_101" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03100095" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/GiaHanNopThue/ctL5" StatusID="0001" />
+      <Cell CellID="E_95" CellID2="K_106" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="031502" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TienChamNop/CTM1/soNgay" StatusID="0001" />
+      <Cell CellID="J_95" CellID2="Q_106" Encode="1" MaxLen="10" MinValue="" MaxValue="" HelpContextID="031000101" Controltype="14" Value="01/02/2020" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TienChamNop/CTM1/tuNgay" StatusID="0001" />
+      <Cell CellID="N_95" CellID2="W_106" Encode="1" MaxLen="10" MinValue="" MaxValue="" HelpContextID="031000101" Controltype="14" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TienChamNop/CTM1/denNgay" StatusID="0001" />
+      <Cell CellID="E_97" CellID2="K_108" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="031000102" Controltype="16" Value="0" DefaultValue="0" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TienChamNop/ctM2" StatusID="0002" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="1" TableName="03_TNDN_1" id="1" TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TaiLieu_Guikem/Tailieuguikem" iColumnSTT="2" TableSTTValue="1" iColumnSTTReport="3">
+    <Location>
+      <TableTemplateRowStart>101</TableTemplateRowStart>
+      <TableReportRowStart>111</TableReportRowStart>
+      <DataLocationTemplateRowStart>103</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>113</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>-1</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo RowDefaultDisplay="0">
+      <Cell CellID="C" CellID2="E" Encode="1" CellID3="E" MaxLen="1000" MinValue="" MaxValue="" HelpContextID="03100" ParentValue="0" ChildValue="0" Controltype="0" DefaultValue="" StatusID="0001" Path="tenTaiLieu" />
+    </RowInfo>
+    <RowData RowDisplay="1">###</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="F_108" CellID2="G_122" Encode="1" Controltype="0" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/DLyThue/NVienDLy/tenNVienDLyThue" StatusID="0001" MaxLen="20" MinValue="" MaxValue="" />
+      <Cell CellID="N_108" CellID2="U_126" Encode="1" Controltype="0" Value="TRẦN THỊ THÙY LINH" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/TKhaiThue/nguoiKy" StatusID="0001" MaxLen="20" MinValue="" MaxValue="" />
+      <Cell CellID="F_110" CellID2="J_123" Encode="1" Controltype="0" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/DLyThue/NVienDLy/cchiHNghe" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" />
+      <Cell CellID="N_110" CellID2="C_119" Encode="1" Controltype="14" Value="19/03/2020" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/TKhaiThue/ngayKy" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" />
+      <Cell CellID="E_22" CellID2="L_32" Encode="1" Controltype="0" Value="1" Path="E22" />
+      <Cell CellID="F_22" CellID2="M_32" Encode="1" Controltype="0" Value="0" Path="F22" />
+      <Cell CellID="I_22" CellID2="N_32" Encode="1" Controltype="0" Value="0" Path="I22" />
+      <Cell CellID="J_22" CellID2="O_32" Encode="1" Controltype="0" Value="1052" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/tieuMucHachToan" />
+      <Cell CellID="M_22" CellID2="_" Encode="0" MaxLen="" MinValue="" MaxValue="" HelpContextID="" Controltype="0" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/TKhaiThue/GiaHan/maLyDoGiaHan" StatusID="0001" />
+      <Cell CellID="N_22" CellID2="_" Encode="0" MaxLen="" MinValue="" MaxValue="" HelpContextID="" Controltype="0" Value="" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/TTinChung/TTinTKhaiThue/TKhaiThue/GiaHan/lyDoGiaHan" StatusID="0001" />
+    </Cells>
+  </Section>
+</Sections>

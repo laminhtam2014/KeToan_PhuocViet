@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited by TAS CMCSoft-->
+<Sections Version="4.1.2">
+  <Section Dynamic="1" MaxRows="1" TableName="KHBS_03_GTGT_1" id="1" TablePath="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/DieuChinhTang/KHBSDieuChinhTang" iColumnSTT="2" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>8</TableTemplateRowStart>
+      <TableReportRowStart>38</TableReportRowStart>
+      <DataLocationTemplateRowStart>9</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>39</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>-1</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="BD" Controltype="0" MaxLen="200" MinValue="" MaxValue="" CellID2="J" FirstCell="0" Encode="1" Value="" StatusID="0001" Path="ct2" />
+      <Cell CellID="BE" Controltype="0" MaxLen="" MinValue="" MaxValue="" CellID2="AT" Encode="1" Value="" StatusID="0001" Path="ct3" />
+      <Cell CellID="BC" Controltype="0" MaxLen="" MinValue="" MaxValue="" CellID2="I" Encode="0" Value="" StatusID="0001" Path="" />
+      <Cell CellID="BF" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="BB" Encode="1" Value="0" StatusID="0001" Path="ct4" />
+      <Cell CellID="BG" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="BU" Encode="1" Value="0" StatusID="0001" Path="ct5" />
+      <Cell CellID="BH" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="CP" Encode="1" Value="0" StatusID="0001" Path="ct6" />
+    </RowInfo>
+    <RowData RowDisplay="1">#########0###0###0</RowData>
+  </Section>
+  <Section Dynamic="1" MaxRows="1" TableName="KHBS_03_GTGT_2" id="1" TablePath="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/DieuChinhGiam/KHBSDieuChinhGiam" iColumnSTT="2" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>12</TableTemplateRowStart>
+      <TableReportRowStart>42</TableReportRowStart>
+      <DataLocationTemplateRowStart>13</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>43</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>-1</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="BD" Controltype="0" MaxLen="200" MinValue="" MaxValue="" CellID2="J" FirstCell="0" Encode="1" Value="" StatusID="0001" Path="ct2" />
+      <Cell CellID="BE" Controltype="0" MaxLen="" MinValue="" MaxValue="" CellID2="AT" Encode="1" Value="" StatusID="0001" Path="ct3" />
+      <Cell CellID="BC" Controltype="0" MaxLen="" MinValue="" MaxValue="" CellID2="I" Encode="0" Value="" StatusID="0001" Path="" />
+      <Cell CellID="BF" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="BB" Encode="1" Value="0" StatusID="0001" Path="ct4" />
+      <Cell CellID="BG" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="BU" Encode="1" Value="0" StatusID="0001" Path="ct5" />
+      <Cell CellID="BH" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" CellID2="CP" Encode="1" Value="0" StatusID="0001" Path="ct6" />
+    </RowInfo>
+    <RowData RowDisplay="1">#########0###0###0</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="B_47" CellID2="E_70" Encode="1" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="28/01/2019" StatusID="0001" Path="Path1" />
+      <Cell CellID="BE_20" CellID2="CI_50" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="999999999999999" Value="90" StatusID="0001" Path="PL01_KHBS/PhatChamNop/soNgayNopCham" />
+      <Cell CellID="BE_21" CellID2="CI_51" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/PhatChamNop/soTienPhatNopCham" />
+      <Cell CellID="BE_27" CellID2="BZ_54" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/soTienTraNSNN" />
+      <Cell CellID="BE_29" CellID2="CC_55" Encode="1" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/quyetDinhHoanThueSo" />
+      <Cell CellID="BE_31" CellID2="K_56" Encode="1" Controltype="14" MaxLen="" MinValue="" MaxValue="" Value="" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/ngay" />
+      <Cell CellID="BE_33" CellID2="CI_60" Encode="0" Controltype="8" MaxLen="250" MinValue="" MaxValue="" Value="" StatusID="0001" ChildCell="BE_35" SelectedValue="BI_33" Path="" />
+      <Cell CellID="BI_33" CellID2="BI_60" Encode="1" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="" StatusID="0001" Path="Path2" />
+      <Cell CellID="BE_35" CellID2="AC_56" Encode="0" Controltype="9" MaxLen="250" MinValue="" MaxValue="" Value="" StatusID="0001" ParentCell="BI_33" SelectedValue="BI_35" Path="PL01_KHBS/NOIDUNGGIAITHICH/tenCQT" />
+      <Cell CellID="BI_35" CellID2="BI_61" Encode="1" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/coQuanThue" />
+      <Cell CellID="BE_37" CellID2="CI_62" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/soNgayNhanDuocTienHoan" />
+      <Cell CellID="BE_39" CellID2="CI_64" Encode="1" Controltype="16" MaxLen="" MinValue="0" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/soTienChamNop" />
+      <Cell CellID="BD_43" CellID2="E_67" Encode="1" Controltype="0" MaxLen="500" MinValue="" MaxValue="" Value="" StatusID="0001" Path="PL01_KHBS/NOIDUNGGIAITHICH/lyDoKhac" />
+      <Cell CellID="BG_45" CellID2="BS_81" Encode="0" Controltype="0" MaxLen="" MinValue="" MaxValue="" Value="TRẦN THỊ THÙY LINH" StatusID="0001" Path="Path3" />
+      <Cell CellID="BG_46" CellID2="C_70" Encode="0" Controltype="14" MaxLen="" MinValue="" MaxValue="" Value="28/01/2019" StatusID="0001" Path="Path4" />
+      <Cell CellID="BF_17" CellID2="BB_47" Encode="1" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/TongHopDCTangGiamPNop/ct4" />
+      <Cell CellID="BG_17" CellID2="BU_47" Encode="1" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/TongHopDCTangGiamPNop/ct5" />
+      <Cell CellID="BH_17" CellID2="CP_47" Encode="1" Controltype="16" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" Value="0" StatusID="0001" Path="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/TongHopDCTangGiamPNop/ct6" />
+      <Cell CellID="BI_5" CellID2="" Encode="0" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="0" StatusID="0001" Path="Q_42" />
+      <Cell CellID="BD_17" CellID2="" Encode="0" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="Thuế GTGT phải nộp" StatusID="0001" Path="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/TongHopDCTangGiamPNop/ct2" />
+      <Cell CellID="BE_17" CellID2="" Encode="0" Controltype="0" MaxLen="200" MinValue="" MaxValue="" Value="27" StatusID="0001" Path="PL01_KHBS/NDUNGKHAIBOSUNGDIEUCHINH/TongHopDCTangGiamPNop/ct3" />
+    </Cells>
+  </Section>
+</Sections>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="4.1.2">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="E_23" CellID2="S_23" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03201" Controltype="16" Value="5431122500" Path="PL03_1A_TNDN/ct01" StatusID="0001" />
+      <Cell CellID="E_24" CellID2="S_24" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03202" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct02" StatusID="0001" />
+      <Cell CellID="E_25" CellID2="S_25" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03203" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct03" StatusID="0002" />
+      <Cell CellID="E_26" CellID2="S_26" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03204" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct04" StatusID="0001" />
+      <Cell CellID="E_27" CellID2="S_27" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03205" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct05" StatusID="0001" />
+      <Cell CellID="E_28" CellID2="S_28" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03206" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct06" StatusID="0001" />
+      <Cell CellID="E_29" CellID2="S_29" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03207" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct07" StatusID="0001" />
+      <Cell CellID="E_30" CellID2="S_30" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03208" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct08" StatusID="0001" />
+      <Cell CellID="E_31" CellID2="S_31" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03209" Controltype="16" Value="5392153755" Path="PL03_1A_TNDN/ct09" StatusID="0002" />
+      <Cell CellID="E_32" CellID2="S_32" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03210" Controltype="16" Value="5382090566" Path="PL03_1A_TNDN/ct10" StatusID="0001" />
+      <Cell CellID="E_33" CellID2="S_33" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03211" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct11" StatusID="0001" />
+      <Cell CellID="E_34" CellID2="S_34" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03212" Controltype="16" Value="10063189" Path="PL03_1A_TNDN/ct12" StatusID="0001" />
+      <Cell CellID="E_35" CellID2="S_35" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03213" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct13" StatusID="0001" />
+      <Cell CellID="E_36" CellID2="S_36" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03214" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct14" StatusID="0001" />
+      <Cell CellID="E_37" CellID2="S_37" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03215" Controltype="16" Value="38968745" Path="PL03_1A_TNDN/ct15" StatusID="0002" />
+      <Cell CellID="E_38" CellID2="S_38" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03216" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct16" StatusID="0001" />
+      <Cell CellID="E_39" CellID2="S_39" Encode="1" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="03217" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct17" StatusID="0001" />
+      <Cell CellID="E_40" CellID2="S_40" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03218" Controltype="16" Value="0" Path="PL03_1A_TNDN/ct18" StatusID="0002" />
+      <Cell CellID="E_41" CellID2="S_41" Encode="1" MaxLen="" MinValue="-999999999999999" MaxValue="999999999999999" HelpContextID="03219" Controltype="16" Value="38968745" Path="PL03_1A_TNDN/ct19" StatusID="0002" />
+    </Cells>
+  </Section>
+</Sections>

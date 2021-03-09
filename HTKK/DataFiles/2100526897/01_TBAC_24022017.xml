@@ -1,0 +1,30 @@
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd">
+<Sections Version="130">
+	<Section Dynamic="1" MaxRows="0">
+		<Cells>
+			<Cell CellID="D_35" CellID2="C_38" FirstCell="0" Encode="1" Receive="1" Value="Hóa đơn bán hàng" StatusID="0001"/>
+			<Cell CellID="J_35" CellID2="I_38" Encode="1" Receive="1" Value="02GTTT2/001"/>
+			<Cell CellID="L_35" CellID2="K_38" Encode="1" Receive="0" Value="PV/16P"/>
+			<Cell CellID="N_35" CellID2="M_38" Encode="1" Receive="0" Value="2500"/>
+			<Cell CellID="P_35" CellID2="O_38" Encode="1" Receive="0" Value="0000001"/>
+			<Cell CellID="R_35" CellID2="Q_38" Encode="1" Receive="0" Value="0002500"/>
+			<Cell CellID="T_35" CellID2="S_38" Encode="1" Receive="1" Value="02/03/2017"/>
+			<Cell CellID="W_35" CellID2="V_38" Encode="1" Receive="1" Value="CTCPVH TONG HOP TRA VINH"/>
+			<Cell CellID="AA_35" CellID2="Z_38" Encode="1" Receive="1" Value="2100113258"/>
+			<Cell CellID="AD_35" CellID2="AC_38" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="AE_35" CellID2="AD_38" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="AG_35" CellID2="AF_38" Encode="0" Receive="1" Value="0         02GTTT    Hóa đơn bán hàng                                                                                                                                                                                        "/>
+			<Cell CellID="AM_35" CellID2="AG_38" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="C_35" CellID2="AH_38" Encode="0" Receive="0" Value="02GTTT"/>
+		</Cells>
+	</Section>
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="F_40" CellID2="E_49" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="F_42" CellID2="E_51" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="K_44" CellID2="J_47" Encode="1" Receive="1" Value=""/>
+			<Cell CellID="AA_46" CellID2="Z_49" Encode="1" Receive="1" Value="24/02/2017" StatusID="0001"/>
+			<Cell CellID="AA_48" CellID2="Y_61" Encode="1" Receive="1" Value="TRAN THI THYU LINH" StatusID="0001"/>
+		</Cells>
+	</Section>
+</Sections>

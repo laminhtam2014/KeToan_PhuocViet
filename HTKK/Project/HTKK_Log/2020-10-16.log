@@ -1,0 +1,7 @@
+
+Product name :HỖ TRỢ KÊ KHAI THUẾ
+Version :4.1.6
+16-10-2020 17:22:15:IsConnectServer
+Message :The remote name could not be resolved: 'htkk.gdt.gov.vn'
+StackTrace :    at System.Net.HttpWebRequest.GetResponse()
+   at HTKK.Forms.frmFormStart.IsConnectServer() in c:\Users\Administrator\Desktop\SourceDangTK\HTKK\Forms\frmFormStart.cs:line 702

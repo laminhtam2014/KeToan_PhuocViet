@@ -1,0 +1,62 @@
+<!DOCTYPE Sections SYSTEM "..\..\InterfaceTemplates\Schema.dtd">
+<Sections Version="335">
+	<Section Dynamic="0" MaxRows="0">
+		<Cells>
+			<Cell CellID="C_39" CellID2="C_39" Encode="0" Value=""/>
+			<Cell CellID="R_44" CellID2="R_44" Encode="1" Value="5431122500"/>
+			<Cell CellID="W_44" CellID2="W_44" Encode="1" Value="0"/>
+			<Cell CellID="R_45" CellID2="R_45" Encode="1" Value="-5382090566"/>
+			<Cell CellID="W_45" CellID2="W_45" Encode="1" Value="0"/>
+			<Cell CellID="R_46" CellID2="R_46" Encode="1" Value="0"/>
+			<Cell CellID="W_46" CellID2="W_46" Encode="1" Value="0"/>
+			<Cell CellID="R_47" CellID2="R_47" Encode="1" Value="0"/>
+			<Cell CellID="W_47" CellID2="W_47" Encode="1" Value="0"/>
+			<Cell CellID="R_48" CellID2="R_48" Encode="1" Value="-7793749"/>
+			<Cell CellID="W_48" CellID2="W_48" Encode="1" Value="0"/>
+			<Cell CellID="R_49" CellID2="R_49" Encode="1" Value="0"/>
+			<Cell CellID="W_49" CellID2="W_49" Encode="1" Value="0"/>
+			<Cell CellID="R_50" CellID2="R_50" Encode="1" Value="-10063189"/>
+			<Cell CellID="W_50" CellID2="W_50" Encode="1" Value="0"/>
+			<Cell CellID="R_51" CellID2="R_51" Encode="1" Value="31174996"/>
+			<Cell CellID="W_51" CellID2="W_51" Encode="1" Value="0"/>
+			<Cell CellID="R_53" CellID2="R_53" Encode="1" Value="0"/>
+			<Cell CellID="W_53" CellID2="W_53" Encode="1" Value="0"/>
+			<Cell CellID="R_54" CellID2="R_54" Encode="1" Value="0"/>
+			<Cell CellID="W_54" CellID2="W_54" Encode="1" Value="0"/>
+			<Cell CellID="R_55" CellID2="R_55" Encode="1" Value="0"/>
+			<Cell CellID="W_55" CellID2="W_55" Encode="1" Value="0"/>
+			<Cell CellID="R_56" CellID2="R_56" Encode="1" Value="0"/>
+			<Cell CellID="W_56" CellID2="W_56" Encode="1" Value="0"/>
+			<Cell CellID="R_57" CellID2="R_57" Encode="1" Value="0"/>
+			<Cell CellID="W_57" CellID2="W_57" Encode="1" Value="0"/>
+			<Cell CellID="R_58" CellID2="R_58" Encode="1" Value="0"/>
+			<Cell CellID="W_58" CellID2="W_58" Encode="1" Value="0"/>
+			<Cell CellID="R_59" CellID2="R_59" Encode="1" Value="0"/>
+			<Cell CellID="W_59" CellID2="W_59" Encode="1" Value="0"/>
+			<Cell CellID="R_60" CellID2="R_60" Encode="1" Value="0"/>
+			<Cell CellID="W_60" CellID2="W_60" Encode="1" Value="0"/>
+			<Cell CellID="R_62" CellID2="R_62" Encode="1" Value="0"/>
+			<Cell CellID="W_62" CellID2="W_62" Encode="1" Value="0"/>
+			<Cell CellID="R_63" CellID2="R_63" Encode="1" Value="0"/>
+			<Cell CellID="W_63" CellID2="W_63" Encode="1" Value="0"/>
+			<Cell CellID="R_64" CellID2="R_64" Encode="1" Value="0"/>
+			<Cell CellID="W_64" CellID2="W_64" Encode="1" Value="0"/>
+			<Cell CellID="R_65" CellID2="R_65" Encode="1" Value="0"/>
+			<Cell CellID="W_65" CellID2="W_65" Encode="1" Value="0"/>
+			<Cell CellID="R_66" CellID2="R_66" Encode="1" Value="0"/>
+			<Cell CellID="W_66" CellID2="W_66" Encode="1" Value="0"/>
+			<Cell CellID="R_67" CellID2="R_67" Encode="1" Value="0"/>
+			<Cell CellID="W_67" CellID2="W_67" Encode="1" Value="0"/>
+			<Cell CellID="R_68" CellID2="R_68" Encode="1" Value="0"/>
+			<Cell CellID="W_68" CellID2="W_68" Encode="1" Value="0"/>
+			<Cell CellID="R_69" CellID2="R_69" Encode="1" Value="31174996"/>
+			<Cell CellID="W_69" CellID2="W_69" Encode="1" Value="0"/>
+			<Cell CellID="R_70" CellID2="R_70" Encode="1" Value="371398229"/>
+			<Cell CellID="W_70" CellID2="W_70" Encode="1" Value="0"/>
+			<Cell CellID="R_71" CellID2="R_71" Encode="1" Value="0"/>
+			<Cell CellID="W_71" CellID2="W_71" Encode="1" Value="0"/>
+			<Cell CellID="R_72" CellID2="R_72" Encode="1" Value="402573225"/>
+			<Cell CellID="W_72" CellID2="W_72" Encode="1" Value="0"/>
+		</Cells>
+	</Section>
+</Sections>

@@ -1,0 +1,9 @@
+
+Product name :HỖ TRỢ KÊ KHAI THUẾ
+Version :4.1.2
+28/01/2019 00:09:48:WinDoWorkRestore
+Message :Cannot read that as a ZipFile
+StackTrace :    at Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   at Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   at Ionic.Zip.ZipFile.Read(String fileName)
+   at HTKK.WinDoWorkEvent.WinDoWorkRestore(String pathFile) in c:\Users\Administrator\Desktop\SourceDangTK\HTKK\Class\WinDoWorkEvent.cs:line 5034

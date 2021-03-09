@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------------------
+  "Date":"24/03/2019 8:35:14 PM",
+  "Source":"[CopyAllDirectory]",
+  "Message":"The process cannot access the file 'C:\\Program Files (x86)\\HTKK\\Project\\HTKK.exe' because it is being used by another process.",
+  "StackTrace":"   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)\r\n   at Client_VersionUpdate.Rollback.CopyAllDirectory(DirectoryInfo oOriginal, DirectoryInfo oFinal, List`1& listRollbackErorr) in E:\\Projects\\HTKK\\SourceCode230318\\ServerAU\\Client_AutoUpdate\\Rollback.cs:line 25",
+------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+  "Date":"24/03/2019 8:35:45 PM",
+  "Source":"[CopyAllDirectory]",
+  "Message":"The process cannot access the file 'C:\\Program Files (x86)\\HTKK\\Project\\HTKK.exe' because it is being used by another process.",
+  "StackTrace":"   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)\r\n   at Client_VersionUpdate.Rollback.CopyAllDirectory(DirectoryInfo oOriginal, DirectoryInfo oFinal, List`1& listRollbackErorr) in E:\\Projects\\HTKK\\SourceCode230318\\ServerAU\\Client_AutoUpdate\\Rollback.cs:line 25",
+------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+  "Date":"24/03/2019 8:35:48 PM",
+  "Source":"[CopyAllDirectory]",
+  "Message":"The process cannot access the file 'C:\\Program Files (x86)\\HTKK\\Project\\HTKK.exe' because it is being used by another process.",
+  "StackTrace":"   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)\r\n   at Client_VersionUpdate.Rollback.CopyAllDirectory(DirectoryInfo oOriginal, DirectoryInfo oFinal, List`1& listRollbackErorr) in E:\\Projects\\HTKK\\SourceCode230318\\ServerAU\\Client_AutoUpdate\\Rollback.cs:line 25",
+------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+  "Date":"24/03/2019 8:35:50 PM",
+  "Source":"[CopyAllDirectory]",
+  "Message":"The process cannot access the file 'C:\\Program Files (x86)\\HTKK\\Project\\HTKK.exe' because it is being used by another process.",
+  "StackTrace":"   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)\r\n   at Client_VersionUpdate.Rollback.CopyAllDirectory(DirectoryInfo oOriginal, DirectoryInfo oFinal, List`1& listRollbackErorr) in E:\\Projects\\HTKK\\SourceCode230318\\ServerAU\\Client_AutoUpdate\\Rollback.cs:line 25",
+------------------------------------------------------------------------------------------------------------------------------------

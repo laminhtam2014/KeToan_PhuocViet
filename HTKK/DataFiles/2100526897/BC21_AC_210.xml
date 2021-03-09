@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="4.1.6">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="O_8" CellID2="D_35" Encode="1" Controltype="14" Value="26/03/2020" DefaultValue="" Path="null_1" MaxLen="10" MinValue="" MaxValue="" HelpContextID="66111" />
+      <Cell CellID="K_8" CellID2="K_35" Encode="1" Controltype="0" Value="11" DefaultValue="" Path="null_2" MaxLen="2" MinValue="" MaxValue="" HelpContextID="66111" />
+      <Cell CellID="M_8" CellID2="L_35" Encode="1" Controltype="0" Value="34" DefaultValue="" Path="null_3" MaxLen="2" MinValue="" MaxValue="" HelpContextID="66111" />
+      <Cell CellID="S_10" CellID2="S_10" Encode="0" Controltype="0" Value="15" DefaultValue="" Path="null_9" MaxLen="2" MinValue="" MaxValue="" HelpContextID="66111" />
+      <Cell CellID="K_10" CellID2="L_10" Encode="0" Controltype="0" Value="2020-03-26T11:34:15Z" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ngayMatChayHongHD" MaxLen="200" MinValue="0" MaxValue="" HelpContextID="66111" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="1" id="1" TableName="BC21_AC_1" TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/HoaDon/ChiTietHoaDon" iColumnSTT="2" TableSTTValue="1" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>41</TableTemplateRowStart>
+      <TableReportRowStart>38</TableReportRowStart>
+      <DataLocationTemplateRowStart>43</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>40</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>-1</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="C" CellID2="AE" Encode="0" Controltype="32" Value="" DefaultValue="" Path="null_4" MaxLen="100" MinValue="" MaxValue="" HelpContextID="66102" />
+      <Cell CellID="E" CellID2="C" Encode="1" Controltype="0" Value="" DefaultValue="" Path="tenHDon" MaxLen="200" MinValue="" MaxValue="" HelpContextID="66103" />
+      <Cell CellID="O" CellID2="L" Encode="1" Controltype="0" Value="" DefaultValue="" Path="mauHDon" MaxLen="20" MinValue="" MaxValue="" HelpContextID="66104" />
+      <Cell CellID="S" CellID2="O" Encode="1" Controltype="0" Value="" DefaultValue="" Path="kyHieu" MaxLen="8" MinValue="" MaxValue="" HelpContextID="66105" />
+      <Cell CellID="V" CellID2="R" Encode="1" Controltype="0" Value="" DefaultValue="" Path="tuSo" MaxLen="7" MinValue="0" MaxValue="9999999" HelpContextID="66106" />
+      <Cell CellID="Y" CellID2="V" Encode="1" Controltype="0" Value="" DefaultValue="" Path="denSo" MaxLen="7" MinValue="0" MaxValue="9999999" HelpContextID="66107" />
+      <Cell CellID="AA" CellID2="Z" Encode="1" Controltype="16" Value="" DefaultValue="0" Path="soLuong" MaxLen="7" MinValue="0" MaxValue="9999999" HelpContextID="66108" />
+      <Cell CellID="AB" CellID2="AA" Encode="1" Controltype="0" Value="" DefaultValue="" Path="lien" MaxLen="200" MinValue="0" MaxValue="9999999" HelpContextID="66109" />
+      <Cell CellID="AL" CellID2="AF" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ghiChu" MaxLen="" MinValue="" MaxValue="" HelpContextID="" />
+      <Cell CellID="AC" CellID2="AB" Encode="0" Controltype="47" Value="" SelectedValue="AL" DefaultValue="" Path="null_5" MaxLen="100" MinValue="" MaxValue="" HelpContextID="66110" />
+      <Cell CellID="AI" CellID2="AD" Encode="0" Controltype="0" Value="" DefaultValue="" Path="null_6" MaxLen="" MinValue="" MaxValue="" HelpContextID="" />
+      <Cell CellID="AK" CellID2="AC" Encode="1" Controltype="0" Value="" DefaultValue="" Path="null_7" MaxLen="" MinValue="" MaxValue="" HelpContextID="" />
+    </RowInfo>
+    <RowData RowDisplay="1">02GTTT###Hóa đơn bán hàng###02GTTT2/001###PV/19P###0000286###0000286###1###1###04###Mất hóa đơn đã viết và đã báo cáo sử dụng kỳ trước######</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="I_46" CellID2="I_51" Encode="1" Controltype="0" Value="không rõ nguyên nhân" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/lyDo" MaxLen="100" MinValue="" MaxValue="" HelpContextID="66112" />
+      <Cell CellID="AB_49" CellID2="R_56" Encode="1" Controltype="0" Value="TRẦN THỊ THÙY LINH" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/nguoiDaiDien" MaxLen="45" MinValue="" MaxValue="" HelpContextID="" />
+      <Cell CellID="AB_51" CellID2="R_58" Encode="1" Controltype="14" Value="26/03/2020" DefaultValue="" Path="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ngayLapBCao" MaxLen="" MinValue="" MaxValue="" HelpContextID="" />
+    </Cells>
+  </Section>
+</Sections>

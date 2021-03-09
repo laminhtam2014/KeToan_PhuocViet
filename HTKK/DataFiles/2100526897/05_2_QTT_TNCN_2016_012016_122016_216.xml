@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="4.1.2">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="C_1" CellID2="" Encode="0" Controltype="15" Value="" DefaultValue="" Path="btnTBK" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="0" id="1" TableName="PLuc_05_2_BK_QTT" TablePath="PLuc_05_2_BK_QTT/BKeCTietCNhan" iColumnSTT="2" TableSTTValue="1" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>20</TableTemplateRowStart>
+      <TableReportRowStart>13</TableReportRowStart>
+      <DataLocationTemplateRowStart>22</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>15</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>6</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="C" CellID2="C" CellID3="B" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct07" StatusID="0001" MaxLen="100" MinValue="" MaxValue="" HelpContextID="33307" />
+      <Cell CellID="D" CellID2="H" CellID3="C" Encode="1" Controltype="26" Value="" DefaultValue="" Path="ct08" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" HelpContextID="33308" />
+      <Cell CellID="E" CellID2="L" CellID3="D" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct09" StatusID="0001" MaxLen="60" MinValue="" MaxValue="" HelpContextID="33309" />
+      <Cell CellID="F" CellID2="P" CellID3="E" Encode="1" Controltype="2" Value="" DefaultValue="" Path="ct10" StatusID="0001" MaxLen="1" MinValue="" MaxValue="" HelpContextID="33310" />
+      <Cell CellID="G" CellID2="R" CellID3="F" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct11" StatusID="0001" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33311" />
+      <Cell CellID="H" CellID2="V" CellID3="G" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct12" StatusID="0001" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33312" />
+      <Cell CellID="I" CellID2="W" CellID3="H" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct13" StatusID="0001" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33313" />
+      <Cell CellID="J" CellID2="X" CellID3="I" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct14" StatusID="0001" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33314" />
+      <Cell CellID="K" CellID2="Y" CellID3="J" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct15" StatusID="0001" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33315" />
+      <Cell CellID="L" CellID2="AA" CellID3="K" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct16" StatusID="0002" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33316" />
+      <Cell CellID="M" CellID2="AB" CellID3="L" Encode="1" Controltype="16" Value="0" DefaultValue="0" Path="ct17" StatusID="0002" MaxLen="" MinValue="0" MaxValue="999999999999999" HelpContextID="33317" />
+      <Cell CellID="AB" CellID2="AC" CellID3="M" Encode="1" Controltype="2" Value="" DefaultValue="" Path="coDieuChinhSoLieu" StatusID="0001" MaxLen="1" MinValue="" MaxValue="" HelpContextID="33314" />
+      <Cell CellID="Z" CellID2="AD" CellID3="N" Encode="0" Controltype="16" Value="" DefaultValue="0" Path="null_1" StatusID="0001" MaxLen="1" MinValue="" MaxValue="" HelpContextID="33314" />
+    </RowInfo>
+    <RowData RowDisplay="1">############0###0###0###0###0###0###0######</RowData>
+  </Section>
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="G_24" CellID2="R_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct18" StatusID="0002" />
+      <Cell CellID="H_24" CellID2="V_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct19" StatusID="0002" />
+      <Cell CellID="I_24" CellID2="W_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct20" StatusID="0002" />
+      <Cell CellID="J_24" CellID2="X_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct21" StatusID="0002" />
+      <Cell CellID="K_24" CellID2="Y_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct22" StatusID="0002" />
+      <Cell CellID="L_24" CellID2="AA_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct23" StatusID="0002" />
+      <Cell CellID="M_24" CellID2="AB_17" Encode="0" Controltype="16" Value="0" Path="PLuc_05_2_BK_QTT/ct24" StatusID="0002" />
+    </Cells>
+  </Section>
+</Sections>

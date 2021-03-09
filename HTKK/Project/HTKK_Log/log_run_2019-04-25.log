@@ -1,0 +1,58 @@
+
+25/04/2019 00:05:32: Validate - Start validate data
+
+25/04/2019 00:05:32: Validate - Start update value
+
+25/04/2019 00:05:32: Validate - End update value
+
+25/04/2019 00:05:32: Validate - End validate data
+
+25/04/2019 00:06:06: ExportXML - Save
+
+25/04/2019 00:06:06: ExportXML - ValidateXmlAgainstXsd
+
+25/04/2019 00:06:06: ExportXML - Process EnCrypt
+
+25/04/2019 00:06:06: ExportXML - Save Encrypt
+
+25/04/2019 00:06:51: WinLoadFromFile - Load Template - 564
+
+25/04/2019 00:06:51: TaiDK - Step 1
+
+25/04/2019 00:06:51: TaiDK - Start calculation
+
+25/04/2019 00:06:51: TaiDK - End calculation
+
+25/04/2019 00:06:51: frmToKhai_ReLoad - All_Load - 819
+
+25/04/2019 00:19:43: Validate - Start validate data
+
+25/04/2019 00:19:43: Validate - Start update value
+
+25/04/2019 00:19:43: Validate - End update value
+
+25/04/2019 00:19:43: Validate - End validate data
+
+25/04/2019 00:20:09: Validate - Start validate data
+
+25/04/2019 00:20:09: Validate - Start update value
+
+25/04/2019 00:20:09: Validate - End update value
+
+25/04/2019 00:20:09: Validate - End validate data
+
+25/04/2019 00:20:42: ExportXML - Save
+
+25/04/2019 00:20:42: ExportXML - ValidateXmlAgainstXsd
+
+25/04/2019 00:20:42: ExportXML - Process EnCrypt
+
+25/04/2019 00:20:42: ExportXML - Save Encrypt
+
+25/04/2019 00:54:26: WinLoadFromFile - Load Template - 552
+
+25/04/2019 00:54:26: TaiDK - Start calculation
+
+25/04/2019 00:54:26: TaiDK - End calculation
+
+25/04/2019 00:54:26: frmToKhai_ReLoad - All_Load - 608

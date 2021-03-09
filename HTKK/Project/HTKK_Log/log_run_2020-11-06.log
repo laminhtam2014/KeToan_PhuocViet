@@ -1,0 +1,54 @@
+
+06-11-2020 19:14:35: APP START - --------------------------------------------   START   ------------------------------------------------
+
+06/11/2020 19:15:23: WinLoadFromFile - Load Template - 1244
+
+06/11/2020 19:15:24: TaiDK - Step 1
+
+06/11/2020 19:15:24: TaiDK - Start calculation
+
+06/11/2020 19:15:24: TaiDK - End calculation
+
+06/11/2020 19:15:24: frmToKhai_ReLoad - All_Load - 3077
+
+06/11/2020 19:15:28: Validate - Start validate data
+
+06/11/2020 19:15:28: Validate - Start update value
+
+06/11/2020 19:15:28: Validate - End update value
+
+06/11/2020 19:15:28: Validate - End validate data
+
+06/11/2020 19:15:57: Export Excel - Start Process data
+
+06/11/2020 19:15:57: Export Excel - Start save data
+
+06/11/2020 19:15:58: Export Excel - Start Restore data
+
+06/11/2020 19:15:58: Export Excel - End
+
+06/11/2020 19:21:59: WinLoadFromFile - Load Template - 213
+
+06/11/2020 19:21:59: TaiDK - Step 1
+
+06/11/2020 19:21:59: TaiDK - Start calculation
+
+06/11/2020 19:21:59: TaiDK - End calculation
+
+06/11/2020 19:21:59: frmToKhai_ReLoad - All_Load - 452
+
+06/11/2020 19:22:02: Validate - Start validate data
+
+06/11/2020 19:22:02: Validate - Start update value
+
+06/11/2020 19:22:02: Validate - End update value
+
+06/11/2020 19:22:02: Validate - End validate data
+
+06/11/2020 19:22:17: Export Excel - Start Process data
+
+06/11/2020 19:22:17: Export Excel - Start save data
+
+06/11/2020 19:22:18: Export Excel - Start Restore data
+
+06/11/2020 19:22:18: Export Excel - End

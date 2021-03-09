@@ -1,0 +1,13 @@
+﻿<Sections Version="402">
+  <Section Dynamic="0" MaxRows="0">
+    <Items>
+      <Item Value="0###010101###Hoàn thuế GTGT đối với trường hợp xuất khấu của CSKD thương mại" />
+      <Item Value="0###010102###Hoàn thuế GTGT đối với trường hợp xuất khấu của CSKD khác" />
+	  <Item Value="0###010103###Hoàn thuế GTGT đối với trường hợp xuất khẩu của CSKD trực tiếp sản xuất" />
+	  <Item Value="1###010201###Hoàn thuế GTGT đối với dự án đầu tư khác" />
+	  <Item Value="1###010202###Hoàn thuế GTGT đối với CSKD mới thành lập từ dự án đầu tư" />
+	  <Item Value="1###010203###Hoàn thuế GTGT đối với CSKD đang hoạt động có dự án đầu tư cùng tỉnh/TP" />
+	  <Item Value="1###010204###Hoàn thuế GTGT đối với CSKD đang hoạt động có dự án đầu tư khác tỉnh/TP" />
+    </Items>
+  </Section>
+</Sections>

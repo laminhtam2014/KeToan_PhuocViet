@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2010 rel. 3 (http://www.altova.com) by MESMERiZE (MSM) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" targetNamespace="http://kekhaithue.gdt.gov.vn/TKhaiThue" elementFormDefault="qualified" version="1.1">
+	<xs:import namespace="http://www.w3.org/2000/09/xmldsig#" schemaLocation="xmldsig-core-schema.xsd"/>
+	<xs:simpleType name="TINType">
+		<xs:annotation>
+			<xs:documentation>Định nghĩa kiểu dữ liệu mã số thuế</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="([0-9]{10})(-[0-9]{3})?"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="CTieuTKhaiChinhType" abstract="true">
+		<xs:annotation>
+			<xs:documentation>
+   Kiểu thành phần chứa số liệu các chỉ tiêu kê khai chung cho các tờ khai. Với mỗi tờ khai cụ thể thành phần này sẽ chứa các thành phần chỉ tiêu cụ thể được định nghĩa
+   trong schema của tờ khai.
+   </xs:documentation>
+		</xs:annotation>
+	</xs:complexType>
+	<xs:complexType name="PLucType" abstract="true">
+		<xs:annotation>
+			<xs:documentation>
+   Kiểu thành phần phụ lục chứa số liệu các chỉ tiêu kê khai phụ lục chung cho các tờ khai. Với mỗi tờ khai cụ thể thành phần này sẽ chứa các thành phần chỉ tiêu cụ thể được định nghĩa
+   trong schema của tờ khai.
+   </xs:documentation>
+		</xs:annotation>
+	</xs:complexType>
+	<xs:element name="HSoThueDTu">
+		<xs:annotation>
+			<xs:documentation>Phần tử gốc của tệp hồ sơ điện tử</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="HSoKhaiThue">
+					<xs:annotation>
+						<xs:documentation>Toàn bộ dữ liệu của hồ sơ đăng ký thuế </xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:complexContent>
+							<xs:extension base="HSoKhaiThueType"/>
+						</xs:complexContent>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CKyDTu" type="CKyDTuType" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Dữ liệu về các chữ ký điện tử trên hồ sơ</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="HSoKhaiThueType">
+		<xs:sequence>
+			<xs:element name="TTinChung">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="TTinDVu">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="maDVu" type="xs:string"/>
+									<xs:element name="tenDVu" type="xs:token"/>
+									<xs:element name="pbanDVu" type="xs:string"/>
+									<xs:element name="ttinNhaCCapDVu" type="xs:string"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="TCtrathunhap">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="maTKhai" type="xs:string">
+										<xs:annotation>
+											<xs:documentation>Mã tờ khai</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="tenTKhai" type="xs:token">
+										<xs:annotation>
+											<xs:documentation>Tên tờ khai</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="moTaBMau" type="xs:string">
+										<xs:annotation>
+											<xs:documentation>Mô tả biểu  mẫu</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="pbanTKhaiXML" type="xs:string"/>
+									<xs:element name="mst" type="TINType"/>
+									<xs:element name="ten" type="xs:token"/>
+									<xs:element name="maCQTQuanLy" type="xs:string"/>
+									<xs:element name="tenCQTQuanLy" type="xs:token"/>
+									<xs:element name="soluong" type="xs:integer"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="CTieuTKhaiChinh">
+				<xs:complexType>
+					<xs:complexContent>
+						<xs:extension base="CTieuTKhaiChinhType"/>
+					</xs:complexContent>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:ID" use="optional"/>
+	</xs:complexType>
+	<xs:complexType name="CKyDTuType">
+		<xs:sequence>
+			<xs:element ref="ds:Signature" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>Chữ ký điện tử</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

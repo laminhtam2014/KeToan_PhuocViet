@@ -1,0 +1,112 @@
+
+21/03/2020 21:13:54: APP START - --------------------------------------------   START   ------------------------------------------------
+
+21/03/2020 21:14:46: WinLoadFromFile - Load Template - 744
+
+21/03/2020 21:14:46: TaiDK - Start calculation
+
+21/03/2020 21:14:46: TaiDK - End calculation
+
+21/03/2020 21:14:46: TaiDK - Start calculation
+
+21/03/2020 21:14:46: TaiDK - End calculation
+
+21/03/2020 21:14:46: TaiDK - Start calculation
+
+21/03/2020 21:14:46: TaiDK - End calculation
+
+21/03/2020 21:14:48: TaiDK - Start calculation
+
+21/03/2020 21:14:48: TaiDK - End calculation
+
+21/03/2020 21:14:48: frmToKhai_ReLoad - All_Load - 4335
+
+21/03/2020 21:41:06: Validate - Start validate data
+
+21/03/2020 21:41:06: Validate - Start update value
+
+21/03/2020 21:41:06: Validate - End update value
+
+21/03/2020 21:41:06: Validate - End validate data
+
+21/03/2020 21:48:15: ExportXML - WinDoWorkGetExportSheetXML
+
+21/03/2020 21:48:15: ExportXML - ImportNode 1
+
+21/03/2020 21:48:15: ExportXML - AppendChild 1
+
+21/03/2020 21:48:15: ExportXML - WinDoWorkGetExportSheetXML
+
+21/03/2020 21:48:15: ExportXML - ImportNode 2
+
+21/03/2020 21:48:15: ExportXML - AppendChild 2
+
+21/03/2020 21:48:15: ExportXML - WinDoWorkGetExportSheetXML
+
+21/03/2020 21:48:15: ExportXML - ImportNode 4
+
+21/03/2020 21:48:15: ExportXML - AppendChild 4
+
+21/03/2020 21:48:15: ExportXML - Save
+
+21/03/2020 21:48:15: ExportXML - ValidateXmlAgainstXsd
+
+21/03/2020 21:48:15: ExportXML - Process EnCrypt
+
+21/03/2020 21:48:15: ExportXML - Save Encrypt
+
+21/03/2020 21:50:34: WinLoadFromFile - Load Template - 515
+
+21/03/2020 21:50:34: TaiDK - Step 1
+
+21/03/2020 21:50:34: TaiDK - Start calculation
+
+21/03/2020 21:50:34: TaiDK - End calculation
+
+21/03/2020 21:50:35: TaiDK - Start calculation
+
+21/03/2020 21:50:35: TaiDK - End calculation
+
+21/03/2020 21:50:35: frmToKhai_ReLoad - All_Load - 826
+
+21/03/2020 21:51:03: Validate - Start validate data
+
+21/03/2020 21:51:03: Validate - Start update value
+
+21/03/2020 21:51:03: Validate - End update value
+
+21/03/2020 21:51:04: Validate - End validate data
+
+21/03/2020 21:51:16: ExportXML - WinDoWorkGetExportSheetXML
+
+21/03/2020 21:51:16: ExportXML - ImportNode 1
+
+21/03/2020 21:51:16: ExportXML - AppendChild 1
+
+21/03/2020 21:51:16: ExportXML - Save
+
+21/03/2020 21:51:16: ExportXML - ValidateXmlAgainstXsd
+
+21/03/2020 21:51:16: ExportXML - Process EnCrypt
+
+21/03/2020 21:51:16: ExportXML - Save Encrypt
+
+21/03/2020 21:59:01: WinLoadFromFile - Load Template - 372
+
+21/03/2020 21:59:01: TaiDK - Start calculation
+
+21/03/2020 21:59:01: TaiDK - End calculation
+
+21/03/2020 21:59:01: TaiDK - Start calculation
+
+21/03/2020 21:59:01: TaiDK - End calculation
+
+21/03/2020 21:59:01: TaiDK - Start calculation
+
+21/03/2020 21:59:01: TaiDK - End calculation
+
+21/03/2020 21:59:04: TaiDK - Start calculation
+
+21/03/2020 21:59:05: TaiDK - End calculation
+
+21/03/2020 21:59:05: frmToKhai_ReLoad - All_Load - 4114

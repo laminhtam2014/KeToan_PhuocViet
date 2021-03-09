@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="4.1.2">
+  <Section Dynamic="0" MaxRows="0">
+    <Cells>
+      <Cell CellID="D_3" CellID2="" Encode="0" Controltype="15" Value="" DefaultValue="" Path="btnTBK" />
+    </Cells>
+  </Section>
+  <Section Dynamic="1" MaxRows="0" id="1" TableName="PLuc_05_3_BK_QTT" TablePath="PLuc_05_3_BK_QTT/BKeTTinNPT" iColumnSTT="2" TableSTTValue="1" iColumnSTTReport="2">
+    <Location>
+      <TableTemplateRowStart>20</TableTemplateRowStart>
+      <TableReportRowStart>13</TableReportRowStart>
+      <DataLocationTemplateRowStart>22</DataLocationTemplateRowStart>
+      <DataLocationReportRowStart>15</DataLocationReportRowStart>
+      <DataLocationTaiBangKeRowStart>40</DataLocationTaiBangKeRowStart>
+    </Location>
+    <RowInfo>
+      <Cell CellID="D" CellID2="C" CellID3="C" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct07" StatusID="0001" MaxLen="100" MinValue="" MaxValue="" HelpContextID="33407" />
+      <Cell CellID="E" CellID2="H" CellID3="D" Encode="1" Controltype="26" Value="" DefaultValue="" Path="ct08" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" HelpContextID="33408" />
+      <Cell CellID="F" CellID2="I" CellID3="E" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct09" StatusID="0001" MaxLen="100" MinValue="" MaxValue="" HelpContextID="33409" />
+      <Cell CellID="G" CellID2="L" CellID3="F" Encode="1" Controltype="14" Value="" DefaultValue="" Path="ct10" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" HelpContextID="33410" />
+      <Cell CellID="H" CellID2="N" CellID3="G" Encode="1" Controltype="26" Value="" DefaultValue="" Path="ct11" StatusID="0001" MaxLen="10" MinValue="" MaxValue="" HelpContextID="33411" />
+      <Cell CellID="I" CellID2="AG" CellID3="H" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct12_ma" StatusID="0001" />
+      <Cell CellID="J" CellID2="P" CellID3="I" Encode="1" Controltype="4" Value="" DefaultValue="" Path="ct12_ten" StatusID="0001" SelectedValue="I" MaxLen="" MinValue="" MaxValue="" HelpContextID="33412" />
+      <Cell CellID="K" CellID2="S" CellID3="J" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct13" StatusID="0001" MaxLen="50" MinValue="" MaxValue="" HelpContextID="33413" />
+      <Cell CellID="L" CellID2="AH" CellID3="K" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct14_ma" StatusID="0001" />
+      <Cell CellID="M" CellID2="V" CellID3="L" Encode="1" Controltype="3" Value="" DefaultValue="" Path="ct14_ten" StatusID="0001" SelectedValue="L" MaxLen="" MinValue="" MaxValue="" HelpContextID="33414" />
+      <Cell CellID="N" CellID2="Y" CellID3="M" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct15" StatusID="0001" MaxLen="50" MinValue="" MaxValue="" HelpContextID="33415" />
+      <Cell CellID="O" CellID2="Z" CellID3="N" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct16" StatusID="0001" MaxLen="50" MinValue="" MaxValue="" HelpContextID="33416" />
+      <Cell CellID="P" CellID2="AJ" CellID3="O" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct17_ma" StatusID="0001" />
+      <Cell CellID="Q" CellID2="AA" CellID3="P" Encode="1" Controltype="4" SelectedValue="P" ChildValue="S" ParentValue="" Value="" DefaultValue="" Path="ct17_ten" MaxLen="" MinValue="" MaxValue="" HelpContextID="33417" />
+      <Cell CellID="R" CellID2="AK" CellID3="Q" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct18_ma" StatusID="0001" />
+      <Cell CellID="S" CellID2="AB" CellID3="R" Encode="1" Controltype="5" SelectedValue="R" ChildValue="U" ParentValue="P" Value="" DefaultValue="" Path="ct18_ten" MaxLen="" MinValue="" MaxValue="" HelpContextID="33418" />
+      <Cell CellID="T" CellID2="AM" CellID3="S" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct19_ma" StatusID="0001" />
+      <Cell CellID="U" CellID2="AC" CellID3="T" Encode="1" Controltype="6" SelectedValue="T" ChildValue="W" ParentValue="R" Value="" DefaultValue="" Path="ct19_ten" MaxLen="" MinValue="" MaxValue="" HelpContextID="33419" />
+      <Cell CellID="V" CellID2="AN" CellID3="U" Encode="1" Controltype="0" Value="" DefaultValue="" Path="ct20_ma" StatusID="0001" />
+      <Cell CellID="W" CellID2="AD" CellID3="V" Encode="1" Controltype="7" SelectedValue="V" ChildValue="" ParentValue="T" Value="" DefaultValue="" Path="ct20_ten" MaxLen="" MinValue="" MaxValue="" HelpContextID="33420" />
+      <Cell CellID="X" CellID2="AE" CellID3="W" Encode="1" Controltype="19" Value="" DefaultValue="" Path="ct21" StatusID="0001" MaxLen="7" MinValue="" MaxValue="" HelpContextID="33421" />
+      <Cell CellID="Y" CellID2="AF" CellID3="X" Encode="1" Controltype="19" Value="" DefaultValue="" Path="ct22" StatusID="0001" MaxLen="7" MinValue="" MaxValue="" HelpContextID="33422" />
+    </RowInfo>
+    <RowData RowDisplay="1">###############################################################</RowData>
+  </Section>
+</Sections>

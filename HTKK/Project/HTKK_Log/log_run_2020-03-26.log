@@ -1,0 +1,36 @@
+
+26/03/2020 11:33:24: APP START - --------------------------------------------   START   ------------------------------------------------
+
+26/03/2020 11:34:15: WinLoadFromFile - Load Template - 592
+
+26/03/2020 11:34:15: TaiDK - Step 1
+
+26/03/2020 11:34:15: TaiDK - Start calculation
+
+26/03/2020 11:34:15: TaiDK - End calculation
+
+26/03/2020 11:34:15: frmToKhai_ReLoad - All_Load - 1964
+
+26/03/2020 11:42:31: Validate - Start validate data
+
+26/03/2020 11:42:31: Validate - Start update value
+
+26/03/2020 11:42:31: Validate - End update value
+
+26/03/2020 11:42:31: Validate - End validate data
+
+26/03/2020 11:43:00: Validate - Start validate data
+
+26/03/2020 11:43:00: Validate - Start update value
+
+26/03/2020 11:43:00: Validate - End update value
+
+26/03/2020 11:43:00: Validate - End validate data
+
+26/03/2020 11:44:54: ExportXML - Save
+
+26/03/2020 11:44:54: ExportXML - ValidateXmlAgainstXsd
+
+26/03/2020 11:44:54: ExportXML - Process EnCrypt
+
+26/03/2020 11:44:54: ExportXML - Save Encrypt
